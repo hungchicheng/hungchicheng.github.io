@@ -12,7 +12,6 @@
 
 # Site settings
 title: Hung-Chi's Blog
-
 url: "http://hungchicheng.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -50,7 +49,7 @@ disqus_shortname: hungchichenggithubio
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-# baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
+baidu_tongji_id: a54306a13aae22cc7b7f66547cbdd8a1
 google_analytics_id: UA-98981883-1 # google 分析追踪id
 
 # Build settings
@@ -76,5 +75,6 @@ tag_dir: tag/
 excerpt_separator: "\n\n\n\n"
 
 # paginate
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap] #, jekyll-admin]
 paginate: 3
+
