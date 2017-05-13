@@ -72,9 +72,9 @@ tag_dir: tag/
 # rss_path : /rss.xml
 
 # excerpt
-excerpt_separator: "\n\n\n\n"
+excerpt_separator: "<!-- more -->"
 
 # paginate
 gems: [jekyll-paginate, jekyll-sitemap] #, jekyll-admin]
-paginate: 3
+paginate: 5
 
