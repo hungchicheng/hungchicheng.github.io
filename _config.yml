@@ -71,10 +71,11 @@ tag_dir: tag/
 # atom_path : /atom.xml
 # rss_path : /rss.xml
 
-# excerpt
-excerpt_separator: "<!-- more -->"
+# gems
+gems: [jekyll-paginate, jekyll-sitemap] #, jekyll-admin]
 
 # paginate
-gems: [jekyll-paginate, jekyll-sitemap] #, jekyll-admin]
 paginate: 5
+# excerpt
+excerpt_separator: "<!-- more -->"
 
