@@ -12,7 +12,7 @@
 
 # Site settings
 title: Hung-Chi's Blog
-url: "http://hungchicheng.github.io" # the base hostname & protocol for your site
+url: "https://hungchicheng.me" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # The url is only used when full-domain names are needed

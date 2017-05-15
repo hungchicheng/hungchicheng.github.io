@@ -2,7 +2,7 @@
 layout: post
 title:  "如何用Jekyll在Github來建立部落格"
 date:   2017-05-11 21:22:54
-categories: Jekyll
+categories: GithubPage
 tags: Github Jekyll Plugin SiteMap Jekyll-sitemap Jekyll-admin
 ---
 
