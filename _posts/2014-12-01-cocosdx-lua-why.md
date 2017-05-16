@@ -3,7 +3,7 @@ title: 為什麼使用Cocos2dx來開發遊戲
 layout: post
 date: '2014-12-01 21:22:54 +0000'
 categories: Cocos2d-x
-tags: Cocos2d-x Lua 腳本 遊戲開發 遊戲引擎 反編譯 編輯器 跨平台 輔助軟體
+tags: Cocos2d-x Lua 腳本 遊戲開發 遊戲引擎 反編譯 編輯器 跨平台 輔助開發軟體
 ---
 
 * content
@@ -53,3 +53,14 @@ Cocos2dx想必是有相當多的優點才會變成現在這樣熱門的遊戲引
 		<td></td>
 	</tr>
 </table>
+
+
+## Cocos2dx 的特點
+
+## Cocos2dx 的輔助開發軟體
+* -最重要- Cocos Studio
+* CocosBuilder (MAC only軟體開發，SpriteBuilder為現在的升級版本的新名稱http://www.spritebuilder.com/)
+* 71squared的 Particle designer (MAC only特效編輯 & USD 8.00 https://71squared.com/particledesigner) mapeditor.org的Tiled map editor (地圖編輯器 free, easy to use and flexible tile map editor http://www.mapeditor.org/)
+* Texture Atlas –TexturePacker：(可用於製作動畫自動產生plist，Creating and using Sprite Sheets in Cocos2D-X with Texture Packer https://www.codeandweb.com/texturepacker)
+* Texture Atlas –Zwoptex：(Mac only. Use Zwoptex to create sprite sheets in just a couple of clicks. https://zwopple.com/zwoptex/ )
+* SpriteHelper & LevelHelper (用於創建一個簡單的Platformer game)

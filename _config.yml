@@ -49,7 +49,7 @@ disqus_shortname: hungchichenggithubio
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: a54306a13aae22cc7b7f66547cbdd8a1
+baidu_tongji_id: 68fa49ae523bb9f40719bd17100dc589
 google_analytics_id: UA-98981883-1 # google 分析追踪id
 
 # Build settings
@@ -79,3 +79,5 @@ paginate: 5
 # excerpt
 excerpt_separator: "<!-- more -->"
 
+# personal def
+post_end_sentence: "!!!!!!如果有任何問題,歡迎在下方提出哦!!!!!!"

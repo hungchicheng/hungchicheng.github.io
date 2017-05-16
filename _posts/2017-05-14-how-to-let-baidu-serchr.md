@@ -3,7 +3,7 @@ layout: post
 title:  "利用Coding.net鏡像及動態CDN,讓百度搜尋GithubPage"
 date:   2017-05-14 21:22:54
 categories: GithubPage
-tags: Github Jekyll Plugin SiteMap Jekyll-sitemap Jekyll-admin
+tags: Github Jekyll 百度 Coding.net
 ---
 
 * content
