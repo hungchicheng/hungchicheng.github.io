@@ -3,13 +3,5 @@ _site
 .jekyll-metadata
 .vscode
 Gemfile.lock
+*.DS_Store
 
-.DS_Store
-
-_posts/.DS_Store
-
-image/.DS_Store
-
-css/.DS_Store
-
-image/2017-05-11-how-to-make-blog-on-github/.DS_Store
