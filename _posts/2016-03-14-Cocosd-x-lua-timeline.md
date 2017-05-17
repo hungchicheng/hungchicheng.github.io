@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Cocos2d-x Lua Animation Timeline"
-date:   2016-03-14 15:22:54
 categories: Cocos2d-x
-tags: Cocos2d-x Lua
+tags:  Cocos2d-x Lua 教程 教學 
+date:  2016-03-14 15:22:54
+title: "Cocos2d-x Lua Animation Timeline"
 ---
+<!--                 Title 的建議最大長度                    -->
 
 * content
 {:toc}

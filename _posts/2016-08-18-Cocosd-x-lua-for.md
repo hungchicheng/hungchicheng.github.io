@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Cocos2d-x Lua for loop"
-date:   2016-08-18 15:22:54
 categories: Cocos2d-x
-tags: Lua
+tags:  Lua 教程 教學 
+date:  2016-08-18 15:22:54
+title: "Cocos2d-x Lua for loop"
 ---
+<!--                 Title 的建議最大長度                    -->
 
 * content
 {:toc}

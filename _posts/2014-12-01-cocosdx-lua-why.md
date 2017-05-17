@@ -1,10 +1,11 @@
 ---
-title: 為什麼使用Cocos2dx來開發遊戲
 layout: post
-date: '2014-12-01 21:22:54 +0000'
 categories: Cocos2d-x
-tags: Cocos2d-x Lua 腳本 遊戲開發 遊戲引擎 反編譯 編輯器 跨平台 輔助開發軟體
+tags:  Cocos2d-x Lua 腳本 遊戲開發 遊戲引擎 反編譯 編輯器 跨平台 輔助開發軟體 教程 教學 
+date:  2014-12-01 21:22:54
+title: "為什麼使用Cocos2d-x跨Android&iOS平台來開發遊戲的教程教學"
 ---
+<!--                 Title 的建議最大長度                    -->
 
 * content
 {:toc}
