@@ -3,6 +3,7 @@ layout: post
 categories: GitHubPage
 tags:  GitHub Jekyll Plugin SiteMap Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-13 21:22:54
+last_modified_at: 2017-05-18 19:00:00
 title: "Jekyll及GitHub Page教學(二) 更換主題及安裝插件"
 ---
 <!--                 Title 的建議最大長度                    -->

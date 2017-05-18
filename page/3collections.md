@@ -3,6 +3,7 @@ layout: page
 title: Collections
 permalink: /collection/
 icon: bookmark
+last_modified_at: 2017-05-18 19:00:00
 ---
 
 * content
