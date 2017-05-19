@@ -3,10 +3,11 @@ http://hungchicheng.me/about/
 http://hungchicheng.me/collection/
 http://hungchicheng.me/tag/
 http://hungchicheng.me/category/
-http://hungchicheng.me/2014/12/02/cocosdx-lua-why/
+http://hungchicheng.me/2014/12/01/cocosdx-lua-why/
 http://hungchicheng.me/2016/03/14/Cocosd-x-lua-timeline/
 http://hungchicheng.me/2016/04/27/Cocosd-x-lua-eventDispatcher/
 http://hungchicheng.me/2016/08/17/Cocosd-x-lua-condition/
 http://hungchicheng.me/2016/08/18/Cocosd-x-lua-for/
-http://hungchicheng.me/2017/05/12/how-to-make-blog-on-github/
-http://hungchicheng.me/2017/05/15/how-to-let-baidu-serchr/
+http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/
+http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/
+http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/

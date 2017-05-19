@@ -13,6 +13,13 @@
 # Site settings
 title: Hung-Chi's Blog
 url: "http://hungchicheng.me" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+  Hung-Chi's Blog 程弘錡的部落格, hungchi cheng, 
+  內容包含身為軟體工程師的作者所遇到的各種技術問題與解決方法,
+  主要講述 Cocos2d-x Lua 還有架部落格 等等相關的內容.
+  Blog includes a variety of technical problems and solutions encountered by myself. 
+  Mainly content is writing about Cocos2d-x + Lua and so on the relevant content.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # The url is only used when full-domain names are needed
@@ -37,7 +44,6 @@ email: hungchi117@gmail.com
 linkedIn_username: hungchicheng
 # dribbble_username: hungchicheng
 
-description_footer: 
 
 # comments
 # two ways to comment, only choose one, and use your own short name
@@ -72,7 +78,7 @@ tag_dir: tag/
 # rss_path : /rss.xml
 
 # gems
-gems: [jekyll-paginate, jekyll-sitemap] #jekyll-feed, jekyll-admin]
+gems: [jekyll-paginate, jekyll-sitemap] #, jekyll-admin]
 
 # paginate
 paginate: 3

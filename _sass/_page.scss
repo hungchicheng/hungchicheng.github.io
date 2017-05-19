@@ -16,8 +16,8 @@
         width: 75%;
         float: left;
         padding: 20px 30px;
-        line-height: 1.6;
-        font-size: 18px;
+        line-height: 1.8;
+        font-size: 17px;
         background-color: #f8f8fd;
         box-shadow: 0 1px 2px rgba(0,0,0,0.4),0 0 30px rgba(10,10,0,0.1) inset;
         >h1 {
@@ -124,7 +124,8 @@
                 font-weight: bold;
             }
             a {
-                color: #4d6dad;
+                color: #6a6b6b;
+                font-weight:bold;
                 transition: 0.5s ease;
                 &:hover {
                     color: #223253;

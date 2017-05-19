@@ -27,7 +27,7 @@ html {
     height: 100%;
 }
 body {
-    font-family: 'Microsoft YaHei','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, "微軟正黑體", sans-serif;
     color: #333;
     background-image: url(http://ww3.sinaimg.cn/large/7011d6cfjw1f1yyk5xe1sj203h03d742.jpg);
     position: relative;
@@ -50,13 +50,17 @@ hr {
 ///////////
 h1 {
     font-size: 30px;
+    font-weight:bold;
 }
 h2 {
     font-size: 30px;
+    font-weight:bold;
+    color: firebrick;
     border-bottom: 1px solid #eee;
 }
 h3 {
     font-size: 24px;
+    color: firebrick;
 }
 h4 {
     font-size: 22px;
@@ -75,6 +79,7 @@ h6 {
     margin: 20px 0 10px;
 }
 blockquote {
+    font-size: 18px;
     color: #444;
     border-left: 5px solid #D6DBDF;
     padding-left: 15px;

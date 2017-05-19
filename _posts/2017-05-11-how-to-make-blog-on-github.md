@@ -17,6 +17,8 @@ title: "Jekyll及GitHub Page教學(一)20分鐘建立免費部落格"
 這真的是太方便了, <br>
 這篇就是記錄Jekyll部落格的特點, <br>
 以及我架Blog的方法及教學.<br>
+<img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll Logo" width="300"><br>
+
 
 <!-- more -->
 <center><b>
@@ -30,7 +32,7 @@ title: "Jekyll及GitHub Page教學(一)20分鐘建立免費部落格"
 </b></center>
 <!-- end -->
 
-各種部落格平台問題
+## 各部落格平台
 1. 痞客邦
 * 廣告一大堆
 * 還有VIP制
@@ -58,24 +60,24 @@ title: "Jekyll及GitHub Page教學(一)20分鐘建立免費部落格"
 [GitHub Page](https://pages.github.com/) 可以幫你或你的開發專案提供網頁, 直接由它來幫你免費的Host託管以及發佈, 
 只要將你的網頁專案檔存在 [GitHub](https://github.com/) 的中, 
 不需自己建伺服器, 不用特別的的設定, 就可以製作個人的網頁, 更可以綁定自己的網域名城, 
-都不不需要再費心思處理各種麻煩事了.<br>
+不需要再費心思處理各種麻煩事了.<br>
 <br>
-### 安裝方式<br>
+### 安裝方法<br>
 1. 申請 GitHub賬號 <https://github.com/> (賬號username就會是你未來的網址)
 2. 下載安裝 GitHub Desktop <https://desktop.github.com/> 桌面版本 並且輸入你的賬號密碼
 3. 建立網站的專案,  名稱必須是 username.github.io
-<img src="/image/2017-05-11-how-to-make-blog-on-github/1.png" width="600"><br>
+<img src="/image/2017-05-11-how-to-make-blog-on-github/1.png" alt="GitHub page username guild" width="600"><br>
 ("username"就是GitHub賬號, 像我的就是hungchicheng.github.io)<br>
 4. 按下專案上的 "Set up in Desktop" 按鈕, 複製鏈接下來
 5. 建立一個 index.html 放到裡面 (p.s.下面有範例)
 6. 輸入log (例如: first commit) 再點 "commit to master" 
 7. 點 "Sync" 就可以上傳上去嘍!!<br>
-<img src="https://pages.github.com/images/sync-mac.png"><br>
+<img src="https://pages.github.com/images/sync-mac.png" alt="GitHub Desktop sync guild"><br>
 8. 打開網址 <https://hungchicheng.github.io> ("hungchicheng"記得要換成你自己的賬號)<br>
 
 網站就這樣完成了!!!<br>
 
-### p.s.
+### P.S.
 第5. 如果index.html不會用的話...可以開啟電腦的記事本直接複製貼上以下內容:<br>
 ```
 <!DOCTYPE html>
@@ -88,10 +90,10 @@ title: "Jekyll及GitHub Page教學(一)20分鐘建立免費部落格"
 ```
 在儲存檔名為: index.html 這樣就可以嘍!!!<br>
 瀏覽器打開可以直接預覽<br>
-<img src="/image/2017-05-11-how-to-make-blog-on-github/2.png"><br>
+<img src="/image/2017-05-11-how-to-make-blog-on-github/2.png" alt="index.html guild" width="200"><br>
 再繼續做6.即可<br>
 
-## 第二步-安裝Jekyll
+## 第二步- Jekyll
 ### 介绍
 下面是[Jekyll中文版](http://jekyll.com.cn/)：
 >将纯文本转化为静态网站和博客.<br>
@@ -101,9 +103,8 @@ title: "Jekyll及GitHub Page教學(一)20分鐘建立免費部落格"
 
 =>簡單來說就是部落格平台, 讓使用者可以用 [GitHub](https://github.com/) 免費託管自己的靜態HTML部落格.<br>
 使用者就可以用 Markdown 語法來寫文章, Jekyll 會自動將你的文章自動編譯為Jekyll 規範的 HTML 網頁.<br>
-<img src="http://jekyllrb.com/img/octojekyll.png" width="300"><br>
 <br>
-### 安裝方式<br>
+### 安裝方法<br>
 
 * Windows- [請先參考官方的前置作業教學](http://jekyllcn.com/docs/windows/#installation)<br>
 * MAC- [如果跟我一樣Ruby版本太舊, 請先更新](https://www.ruby-lang.org/zh_tw/documentation/installation/#homebrew)<br>
@@ -121,7 +122,7 @@ jekyll serve
 第四行 開始運行
 2. 打開網頁<br>
 [http://localhost:4000](http://localhost:4000)<br>
-<img src="/image/2017-05-11-how-to-make-blog-on-github/3.png" width="800"><br>
+<img src="/image/2017-05-11-how-to-make-blog-on-github/3.png" alt="jekyll sample page" width="800"><br>
 到這裡其實就裝好了~~<br>
 3. 再上傳到 GitHub,  (同:第一步- GitHub Page 6-8的安裝方式)就可以嘍!!<br>
 

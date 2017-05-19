@@ -11,6 +11,26 @@ title: "Jekyll及GitHub Page教學(進階) Coding.net鏡像讓百度爬蟲抓取
 * content
 {:toc}
 
+<!-- 文章概要 -->
+上上一篇講了我 安裝jekyll+放上 GitHub Page的方法:<br>
+[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/)<br>
+上一篇講了我 更換主題及安裝插件的方法:<br>
+[Jekyll及GitHub Page教學(二) 更換主題及安裝插件](http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/)<br>
+這次我發現中國最大的搜尋引擎並不會自動抓 Github Page 的內容.
+<img src="http://www.baidu.com/img/bd_logo1.png" alt="baidu logo" width="300"><br>
+
+
+<!-- more -->
+<center><b>
+<HR>一一一一一一一一一一一一一一一一一一一一一一一一一一一<br>
+&copy;著作權聲明: <br>
+<a href="http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/" id="link" target="_blank">
+	http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/
+</a><br>
+歡迎分享轉載,  並請註明連結<br>
+一一一一一一一一一一一一一一一一一一一一一一一一一一一<HR>
+</b></center>
+<!-- end -->
 
 <!-- more -->
 ```
