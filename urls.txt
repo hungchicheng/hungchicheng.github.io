@@ -11,3 +11,5 @@ http://hungchicheng.me/2016/08/18/Cocosd-x-lua-for/
 http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/
 http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/
 http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/
+
+http://hungchicheng.me/en/

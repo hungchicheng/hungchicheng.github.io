@@ -1,16 +1,18 @@
 <header id="top">
     <div class="wrapper">
-        <big>
-            <a href="{{ site.baseurl }}/" class="brand">{{ site.title }}</a>
-        </big>
-        <small>
-            <a href="#" id="link" target="_blank"><font color="DeepSkyBlue">Translate to English</font></a>
-            <script type="text/javascript">
-            window.onload = function(){
-                document.getElementById("link").href = "http://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=" + window.location.toString();
-            }
-            </script>
-        </small>
+        <h1>
+        <a href="{{ site.baseurl }}/" class="brand">{{ site.title }}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        </h1>
+        <lan>
+            <a href="#" class="active" ">中文</a>
+            <a href="{{ site.baseurl }}/en/" >English</a>
+        </lan>
+        <!-- 直接英文版 blog 不使用翻譯了
+        <script type="text/javascript">
+        window.onload = function(){
+            document.getElementById("link").href = "http://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=" + window.location.toString();
+        }
+        </script> -->
         <button id="headerMenu" class="menu"><i class="fa fa-bars"></i></button>
         <nav id="headerNav">
             <ul>
@@ -20,7 +22,7 @@
                         {% else %}
                     <a href="{{site.baseurl}}/">
                     {% endif %}
-                        <i class="fa fa-home"></i>Home
+                        <i class="fa fa-home"></i>首頁
                     </a>
                 </li>
 
@@ -32,7 +34,10 @@
                             {% else %}
                         <a href="{{ my_page.url | prepend: site.baseurl }}">
                         {% endif %}
-                            <i class="fa fa-{{my_page.icon}}"></i>{{ my_page.title }}
+                            <font color="{{ my_page.color }}">
+                                <i class="fa fa-{{my_page.icon}}"></i>
+                            </font>
+                            {{ my_page.title }}
                         </a>
                     </li>
                     {% endif %}
