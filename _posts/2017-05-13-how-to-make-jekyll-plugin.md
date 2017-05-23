@@ -3,8 +3,8 @@ layout: post
 categories: GitHubPage
 tags:  GitHub Jekyll Plugin SiteMap Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-13 21:22:54
-last_modified_at: 2017-05-22 19:00:00
-title: "【Jekyll及GitHub Page教學2】 更換主題及安裝插件"
+last_modified_at: 2017-05-18 19:00:00
+title: "Jekyll及GitHub Page教學(二) 更換主題及安裝插件"
 ---
 <!--                 Title 的建議最大長度                    -->
 
@@ -15,7 +15,7 @@ title: "【Jekyll及GitHub Page教學2】 更換主題及安裝插件"
 上一篇講了我安裝jekyll+放上 GitHub Page的方法:<br>
 [Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/)<br>
 基本上沒有安裝主題還是可以使用啦,<br>
-但是更換個好看的主題(theme)更可以吸引其他人來觀看哦<br>
+但是更換個好看的主題更可以吸引其他人來觀看哦<br>
 另外講一下插件的功能.<br>
 <img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="600"><br>
 

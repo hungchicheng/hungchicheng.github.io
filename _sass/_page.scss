@@ -29,6 +29,7 @@
         ul {
             >h2 {
                 margin-left: -40px;
+                color: #6a6b6b;
             }
             li {
                 line-height: 1.8;
@@ -39,7 +40,7 @@
                 }
                 .title {
                     font-weight: bold;
-                    color: #003399;
+                    color: #223253;
                     transition: 0.3s ease;
                     &:hover {
                         color: #4d6dad;
@@ -121,7 +122,6 @@
                 border-bottom: 1px solid #c0c0c0;
                 font-size: 16px;
                 font-weight: bold;
-                color: black;
             }
             a {
                 color: #6a6b6b;
@@ -194,7 +194,7 @@
             top: 76px;
             right: 2.5%;
             padding: 5px 10px;
-            color: #000000;
+            color: #333;
             font-size: 15px;
             background-color: #f8f8fd;
             box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.3), 0 0 30px rgba(10, 10, 0, 0.1) inset;

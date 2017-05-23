@@ -5,34 +5,11 @@ header {
     box-shadow: 0 2px 4px 1px rgba(0,0,0,0.5);
     margin-bottom: 20px;
     a {
-        float: left;
         color: #9d9d9d;
         -webkit-transition: 0.2s ease;
         transition: 0.2s ease;
         &:hover {
             color: #fff;
-        }
-    }
-    lan {
-        list-style: none;
-        font-size: 16px;
-        display: inline-block;
-        a {
-            color: #9d9d9d;
-            display: inline-block;
-            padding: 0 10px;
-            height: 50px;
-            &:hover {
-                background-color: #000;
-            }
-            i {
-                margin-right: 5px;
-            }
-        }
-        >.active {
-            color: #fff;
-            background-color: #000;
-            box-shadow: 0 25px 25px -15px rgba(255,255,255,0.93);
         }
     }
     .wrapper {
@@ -49,7 +26,6 @@ header {
         .menu{
             display: none;
         }
-        
         nav {
             float: right;
             ul {
@@ -119,11 +95,6 @@ header {
     header {
         height: 48px;
         margin-bottom: 15px;
-        lan {
-            a {
-                height: 47px;
-            }
-        }
         .wrapper {
             width: 95%;
             margin: 0 auto;

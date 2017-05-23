@@ -4,7 +4,7 @@ categories: Cocos2d-x
 tags:  Cocos2d-x Lua 教程 教學 
 date:  2016-03-14 15:22:54
 last_modified_at: 2017-05-18 19:00:00
-title: "【Cocos2d-x教程教學】Cocos2d-x Lua動畫事件"
+title: "Cocos2d-x Lua Animation Timeline"
 ---
 <!--                 Title 的建議最大長度                    -->
 
@@ -17,7 +17,7 @@ title: "【Cocos2d-x教程教學】Cocos2d-x Lua動畫事件"
 -- 新UI 動畫
 local actionTmp = cc.CSLoader:createTimeline("csb/battleDescription2.csb")
 csbNode:runAction(actionTmp)
-actionTmp:gotoFrameAndPlay(0,false)
+actionTmp:gotoFrameAndPlay(0,false)Cocosdxlua
 ```
 
 ## timeline event

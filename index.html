@@ -4,11 +4,7 @@ layout: default
 
 <div class="page clearfix" index>
     <div class="left">
-        <h1>歡迎來到 Hung-Chi's Blog !!!</h1>
-        <small>程弘錡的部落格, 記錄了身為軟體工程師的作者, 所遭遇的各種技術問題與解決方法!!<br>
-        Welcome to Hung-Chi's Blog !!! This blog is about a variety of technical problems and solutions encountered by myself.
-         </small>
-        <hr>
+        <h1>Hung-Chi's Blog (程弘錡的部落格)<br> 最新文章</h1>
         <ul>
             {% for post in paginator.posts %}
               <li>
@@ -73,7 +69,7 @@ layout: default
             <div class="side">
                 <div>
                     <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
-                    最新文章
+                    Recent Posts
                 </div>
                 <ul class="content-ul" recent>
                     {% for post in site.posts offset: 0 limit: 5  %}
@@ -86,7 +82,7 @@ layout: default
             <div class="side ">
                 <div>
                     <i class="fa fa-th-list"></i>
-                    目錄
+                    Categories
                 </div>
                 <ul class="content-ul" cate>
                     {% for category in site.categories order:ascending %}
@@ -105,7 +101,7 @@ layout: default
             <div class="side">
                 <div>
                     <i class="fa fa-tags"></i>
-                    標籤
+                    Tags
                 </div>
                 <div class="tags-cloud">
                     {% assign first = site.tags.first %}
