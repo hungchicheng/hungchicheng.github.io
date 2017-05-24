@@ -12,6 +12,7 @@
 
 # Site settings
 title: Hung-Chi's Blog
+brief-intro: on github
 url: "http://hungchicheng.me" # the base hostname & protocol for your site
 description: > # this means to ignore newlines until "baseurl:"
   Hung-Chi's Blog 程弘錡的部落格, hungchi cheng, 

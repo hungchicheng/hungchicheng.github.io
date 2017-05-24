@@ -1,8 +1,13 @@
 <header id="top">
     <div class="wrapper">
-        <big>
-            <a href="{{ site.baseurl }}/" class="brand">{{ site.title }}</a>
-        </big>
+        <lan>
+            <a href="{{ site.baseurl }}/">
+                <i class="fa fa-github"></i>
+                <ti>{{ site.title }}</ti>
+                <sub>{{site.brief-intro}}</sub>
+            </a>
+        </lan>
+        <!-- 
         <small>
             <a href="#" id="link" target="_blank"><font color="DeepSkyBlue">Translate to English</font></a>
             <script type="text/javascript">
@@ -10,7 +15,7 @@
                 document.getElementById("link").href = "http://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=" + window.location.toString();
             }
             </script>
-        </small>
+        </small> -->
         <button id="headerMenu" class="menu"><i class="fa fa-bars"></i></button>
         <nav id="headerNav">
             <ul>
@@ -20,7 +25,10 @@
                         {% else %}
                     <a href="{{site.baseurl}}/">
                     {% endif %}
-                        <i class="fa fa-home"></i>Home
+                        <font color="#fff">
+                            <i class="fa fa-home"></i>
+                        </font>
+                        Home
                     </a>
                 </li>
 
@@ -32,7 +40,10 @@
                             {% else %}
                         <a href="{{ my_page.url | prepend: site.baseurl }}">
                         {% endif %}
-                            <i class="fa fa-{{my_page.icon}}"></i>{{ my_page.title }}
+                            <font color="{{ my_page.color }}">
+                                <i class="fa fa-{{my_page.icon}}"></i>
+                            </font>
+                            {{ my_page.title }}
                         </a>
                     </li>
                     {% endif %}

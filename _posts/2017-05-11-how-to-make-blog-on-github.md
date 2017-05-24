@@ -3,8 +3,8 @@ layout: post
 categories: GitHubPage
 tags:  GitHub Jekyll Plugin SiteMap Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-11 21:22:54
-last_modified_at: 2017-05-18 19:00:00
-title: "Jekyll及GitHub Page教學(一)20分鐘建立免費部落格"
+last_modified_at: 2017-05-22 19:00:00
+title: "【Jekyll及GitHub Page教學1】 20分鐘建立免費部落格"
 ---
 <!--                 Title 的建議最大長度                    -->
 

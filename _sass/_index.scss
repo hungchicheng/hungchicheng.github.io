@@ -1,6 +1,6 @@
 .page[index] {
     a {
-        color: #4d6dad;
+        color: #003399;
         transition: 0.5s ease;
         &:hover {
             color: #223253;
@@ -13,11 +13,14 @@
                 list-style: none;
             }
             li {
-                color: #333;
+                color: #000000;
                 h2 {
                     border: none;
                     font-size: 26px;
                     margin: 0;
+                    a {
+                        color: #cc0033;
+                    }
                 }
                 .label {
                     margin-bottom: 15px;

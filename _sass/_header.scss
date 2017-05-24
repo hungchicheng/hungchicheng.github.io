@@ -1,11 +1,12 @@
 header {
     background: #222;
     height: 52px;
-    color: #9d9d9d;
+
+    color: #bdbdbd;
     box-shadow: 0 2px 4px 1px rgba(0,0,0,0.5);
     margin-bottom: 20px;
     a {
-        color: #9d9d9d;
+        color: #bdbdbd;
         -webkit-transition: 0.2s ease;
         transition: 0.2s ease;
         &:hover {
@@ -16,16 +17,39 @@ header {
         width: 1140px;
         margin: 0 auto;
         line-height: 52px;
-        .brand {
-            font-size: 18px;
-        }
-        small {
-            margin-left: 26px;
-            font-size: 14px;
+        lan {
+            list-style: none;
+            display: inline-block;
+            a {
+                color: #bdbdbd;
+                display: inline-block;
+                padding: 0 10px;
+                height: 50px;
+                &:hover {
+                    color: #fff;
+                    background-color: #000;
+                }
+                i {
+                    font-size: 50px;
+                    color: #fff;
+                    margin-right: 5px;
+                }
+                ti {
+                    font-size: 22px;
+                    position: relative;
+                    top: -6px;
+                }
+                sub {
+                    font-size: 12px;
+                    position: relative;
+                    top: -9px;
+                }
+            }
         }
         .menu{
             display: none;
         }
+        
         nav {
             float: right;
             ul {
@@ -34,7 +58,7 @@ header {
                 padding: 0;
                 li {
                     list-style: none;
-                    font-size: 14px;
+                    font-size: 16px;
                     display: inline-block;
                     -webkit-transition: 0.2s ease;
                     transition: 0.2s ease;
@@ -95,14 +119,17 @@ header {
     header {
         height: 48px;
         margin-bottom: 15px;
+        
         .wrapper {
             width: 95%;
             margin: 0 auto;
             line-height: 48px;
             position: relative;
             z-index: 101;
-            .brand {
-                font-size: 16px;
+            lan {
+                a {
+                    height: 48px;
+                }
             }
             small {
                 margin-left: 10px;
