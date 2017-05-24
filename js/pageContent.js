@@ -23,7 +23,7 @@
                 // console.log(htmlHeight);
             var scrollBottom = htmlHeight - window.innerHeight - scrollTop
 
-            if (scrollTop < 53) {
+            if (scrollTop < 25) {
                 sidebarWrap.classList.remove('fixed')
                 sidebarWrap.classList.remove('scroll-bottom')
             } else if (scrollBottom >= (190 - 38)) {
@@ -105,11 +105,11 @@ function ancherPostion(anchorBtn, rightDiv) {
             // console.log(top);
         var scrollTop = Math.max(document.documentElement.scrollTop, document.body.scrollTop)
         if (scrollTop > 50) {
-            anchorBtn.style.top = '20px'
-            rightDiv.style.top = '20px'
+            anchorBtn.style.top = '80px'
+            rightDiv.style.top = '80px'
         } else {
-            anchorBtn.style.top = '76px'
-            rightDiv.style.top = '76px'
+            anchorBtn.style.top = '70px'
+            rightDiv.style.top = '70px'
         }
     })
 }
