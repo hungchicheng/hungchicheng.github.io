@@ -4,7 +4,7 @@ categories: GitHubPage
 tags:  GitHub Jekyll Plugin SiteMap Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-11 21:22:54
 last_modified_at: 2017-05-22 19:00:00
-title: "【Jekyll及GitHub Page教學1】 20分鐘建立免費部落格"
+title: "[Jekyll及GitHub Page教學1] 20分鐘建立免費部落格"
 ---
 <!--                 Title 的建議最大長度                    -->
 
@@ -17,13 +17,11 @@ title: "【Jekyll及GitHub Page教學1】 20分鐘建立免費部落格"
 這真的是太方便了, <br>
 這篇就是記錄Jekyll部落格的特點, <br>
 以及我架Blog的方法及教學.<br>
-<img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll Logo" width="300"><br>
-
 
 <!-- more -->
 <center><b>
 <HR>一一一一一一一一一一一一一一一一一一一一一一一一一一一<br>
-&copy;著作權聲明: <br>
+<font color="#0055FF" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/
 </a><br>
@@ -31,6 +29,8 @@ title: "【Jekyll及GitHub Page教學1】 20分鐘建立免費部落格"
 一一一一一一一一一一一一一一一一一一一一一一一一一一一<HR>
 </b></center>
 <!-- end -->
+
+<img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll Logo" width="300"><br>
 
 ## 各部落格平台
 1. 痞客邦
@@ -56,7 +56,6 @@ title: "【Jekyll及GitHub Page教學1】 20分鐘建立免費部落格"
 <!-- 手動放廣告 -->
 
 ## 第一步- GitHub Page
-### 介绍
 [GitHub Page](https://pages.github.com/) 可以幫你或你的開發專案提供網頁, 直接由它來幫你免費的Host託管以及發佈, 
 只要將你的網頁專案檔存在 [GitHub](https://github.com/) 的中, 
 不需自己建伺服器, 不用特別的的設定, 就可以製作個人的網頁, 更可以綁定自己的網域名城, 
@@ -94,7 +93,6 @@ title: "【Jekyll及GitHub Page教學1】 20分鐘建立免費部落格"
 再繼續做6.即可<br>
 
 ## 第二步- Jekyll
-### 介绍
 下面是[Jekyll中文版](http://jekyll.com.cn/)：
 >将纯文本转化为静态网站和博客.<br>
 >简单 – 无需数据库、评论功能, 不需要不断的更新版本——只用关心你的博客内容.<br>

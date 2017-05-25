@@ -4,7 +4,7 @@ categories: GitHubPage
 tags:  GitHub Jekyll Plugin SiteMap Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-13 21:22:54
 last_modified_at: 2017-05-22 19:00:00
-title: "【Jekyll及GitHub Page教學2】 更換主題及安裝插件"
+title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
 ---
 <!--                 Title 的建議最大長度                    -->
 
@@ -17,12 +17,11 @@ title: "【Jekyll及GitHub Page教學2】 更換主題及安裝插件"
 基本上沒有安裝主題還是可以使用啦,<br>
 但是更換個好看的主題(theme)更可以吸引其他人來觀看哦<br>
 另外講一下插件的功能.<br>
-<img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="600"><br>
 
 <!-- more -->
 <center><b>
 <HR>一一一一一一一一一一一一一一一一一一一一一一一一一一一<br>
-&copy;著作權聲明: <br>
+<font color="#0055FF" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/
 </a><br>
@@ -30,6 +29,8 @@ title: "【Jekyll及GitHub Page教學2】 更換主題及安裝插件"
 一一一一一一一一一一一一一一一一一一一一一一一一一一一<HR>
 </b></center>
 <!-- end -->
+
+<img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="600"><br>
 
 
 ## 一. 換主題

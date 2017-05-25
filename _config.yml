@@ -36,7 +36,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 permalink: /:year/:month/:day/:title/
 
 # other links
-# twitter_username: hungchicheng
+twitter_username: hungchicheng
 # facebook_username: hungchicheng
 github_username:  hungchicheng
 email: hungchi117@gmail.com

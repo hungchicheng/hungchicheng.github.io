@@ -1,9 +1,10 @@
 .page[index] {
     a {
-        color: #003399;
-        transition: 0.5s ease;
+        color: #4d4d4d;
+        transition: 0.2s ease;
         &:hover {
-            color: #223253;
+            color: #0055FF;
+            text-decoration:underline;
         }
     }
     .left {
@@ -16,17 +17,21 @@
                 color: #000000;
                 h2 {
                     border: none;
-                    font-size: 26px;
+                    font-size: 24px;
                     margin: 0;
+                    padding-top: 20px; 
                     a {
-                        color: #cc0033;
+                        color: #0055FF;
+                        &:hover {
+                            text-decoration:underline;
+                        }
                     }
                 }
                 .label {
                     margin-bottom: 15px;
                     overflow: hidden;
                     .label-card {
-                        font-size: 9px;
+                        font-size: 14px;
                         float: left;
                         margin-right: 15px;
                         i {
@@ -54,13 +59,23 @@
                     text-align: right;
                     font-size: 18px;
                     a {
-                        color: #778ab0;
-                        transition: 0.2s ease;
-                        &:hover {
-                            color: #5872a7;
-                        }
+
                         i {
                             padding-right: 3px;
+                        }
+
+                        // border: 1px solid #aaa;
+                        padding: 10px 50px 10px 50px; //上右下左 的寬度
+                        background-color: #0055FF; // 背景顏色
+                        border-color: #0057A8;  // 邊框顏色
+                        border-style: solid;    //邊框樣式
+                        border-width: 1px;      //邊框粗度
+                        border-radius: 7px;     //邊框圓弧
+                        color: #fff;
+                        font-size: 90%;
+                        transition: 0s ease;
+                        &:hover {
+                            background-color: #2277FF;
                         }
                     }
                 }

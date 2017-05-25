@@ -4,9 +4,11 @@ layout: default
 
 <div class="page clearfix" index>
     <div class="left">
-        <h1>Welcome to My Blog !!!</h1>
-        <small>This blog is about a variety of technical problems and solutions encountered by myself.<br>歡迎來到程弘錡的部落格!!! 這裡記錄了身為軟體工程師的作者, 所遭遇的各種技術問題與解決方法!!
-        </small>
+        <center>
+            <h1>Welcome to My Blog !!!</h1>
+            <small>This blog is about a variety of technical problems and solutions encountered by myself.<br>歡迎來到程弘錡的部落格!!!   這裡記錄了我所遭遇的各種技術問題與解決方法.
+            </small>
+            </center>
         <hr>
         <ul>
             {% for post in paginator.posts %}
@@ -37,9 +39,11 @@ layout: default
                 <div class="excerpt">
                     {{post.excerpt}}
                 </div>
+                <br>
                 <div class="read-all">
                     <a  href="{{ post.url | prepend: site.baseurl }}"><i class="fa fa-newspaper-o"></i>Read All</a>
                 </div>
+                <br>
                 <hr>
               </li>
             {% endfor %}
@@ -139,6 +143,9 @@ layout: default
                     {% endfor %}
                 </div>
             </div>
+            <!-- 手動放廣告 -->
+            {% include ad.html %}
+            <!-- 手動放廣告 -->
 
             <!-- <div class="side">
                 <div>

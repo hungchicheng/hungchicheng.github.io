@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
-icon: heart
-color: CC0033
+icon: <i class="fa fa-heart"></i>
 last_modified_at: 2017-05-18 19:00:00
 ---
 

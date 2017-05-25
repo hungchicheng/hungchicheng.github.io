@@ -2,8 +2,7 @@
 layout: page
 title: Collections
 permalink: /collection/
-icon: bookmark
-color: 003399
+icon: <i class="fa fa-bookmark"></i>
 last_modified_at: 2017-05-18 19:00:00
 ---
 

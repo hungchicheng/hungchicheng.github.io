@@ -1,34 +1,38 @@
 <footer class="site-footer">
-
-
     <div class="wrapper">
 
-        <p class="contact">
-            Contact <a href= "/about">Hung-Chi Cheng (程弘錡)</a> at: {% if site.github_username %}
-            <a href="https://github.com/{{site.github_username}}" target="_blank" title="GitHub"><i class="fa fa-github" aria-hidden="true"></i></a> {% endif %} {% if site.email %}
-            <a href="mailto:{{site.email}}" target="_blank" title="email"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> {% endif %} {% if site.weibo_username %}
-            <a href="http://weibo.com/{{site.weibo_username}}" target="_blank" title="Weibo"><i class="fa fa-weibo" aria-hidden="true"></i></a> {% endif %} {% if site.zhihu_username %}
-            <a href="https://www.zhihu.com/people/{{site.zhihu_username}}" target="_blank" title="Zhihu"><i class="iconfont icon-daoruzhihu"></i></a> {% endif %} {% if site.twitter_username %}
-            <a href="https://twitter.com/{{site.twitter_username}}" target="_blank" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a> {% endif %} {% if site.facebook_username %}
-            <a href="https://www.facebook.com/{{site.facebook_username}}" target="_blank" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a> {% endif %}  {% if site.linkedIn_username %}
-            <a href="https://www.linkedin.com/in/{{site.linkedIn_username}}" target="_blank" title="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a> {% endif %} {% if site.dribbble_username %}
-            <a href=" https://dribbble.com/{{site.dribbble_username}}" target="_blank" title="Dribbble"><i class="fa fa-dribbble" aria-hidden="true"></i></a> {% endif %}
+        <!-- 手動放廣告 -->
+        {% include ad.html %}
+        <!-- 手動放廣告 -->
+        <br>
+        <p class="title">
+            <a href= "/">Hung-Chi's Blog&nbsp;&nbsp;&nbsp;</a><a href="https://github.com/{{site.github_username}}" target="_blank" title="GitHub"><i class="fa fa-github"></i></a>
         </p>
+        <br>
 
         <p>
             Total Number of Visits : <span id="busuanzi_value_site_pv"></span>, Visitors : <span id="busuanzi_value_site_uv"></span>, Visits : <span id="busuanzi_value_page_pv"></span>
         </p>
 
-        <!-- 手動放廣告 -->
-        {% include ad.html %}
-        <!-- 手動放廣告 -->
+        <p class="contact">
+            Contact <a href= "/about">Hung-Chi Cheng (程弘錡)</a> at:  {% if site.email %}
+            <a href="mailto:{{site.email}}" target="_blank" title="email"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> {% endif %} {% if site.linkedIn_username %}
+            <a href="https://www.linkedin.com/in/{{site.linkedIn_username}}" target="_blank" title="LinkedIn"><spe><i class="fa fa-linkedin" aria-hidden="true"></i></spe></a> {% endif %} {% if site.weibo_username %}
+            <a href="http://weibo.com/{{site.weibo_username}}" target="_blank" title="Weibo"><i class="fa fa-weibo" aria-hidden="true"></i></a> {% endif %} {% if site.zhihu_username %}
+            <a href="https://www.zhihu.com/people/{{site.zhihu_username}}" target="_blank" title="Zhihu"><i class="iconfont icon-daoruzhihu"></i></a> {% endif %} {% if site.twitter_username %}
+            <a href="https://twitter.com/{{site.twitter_username}}" target="_blank" title="Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a> {% endif %} {% if site.facebook_username %}
+            <a href="https://www.facebook.com/{{site.facebook_username}}" target="_blank" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a> {% endif %} {% if site.dribbble_username %}
+            <a href=" https://dribbble.com/{{site.dribbble_username}}" target="_blank" title="Dribbble"><i class="fa fa-dribbble" aria-hidden="true"></i></a> {% endif %}
+        </p>
+        <br>
+        <br>
 
         <p class="power">
             <span>
                 Site powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> & <a href="https://pages.github.com/" target="_blank">Github Pages</a>.
             </span>
             <span>
-                Theme designed by <a href="https://github.com/Gaohaoyang" target="_blank">HyG</a>.
+                Theme from <a href="https://github.com/Gaohaoyang" target="_blank">HyG</a>, redesigned by <a href="https://github.com/Gaohaoyang" target="_blank">Hung-Chi Cheng.</a>
             </span>
         </p>
 

@@ -33,7 +33,7 @@ body {
     position: relative;
     top: 70px;
     min-height: 100%;
-    padding-bottom: 190px;
+    padding-bottom: 300px;
 }
 a {
     text-decoration: none;
@@ -44,25 +44,32 @@ button {
 }
 hr {
     border: 0;
-    border-top: 1px solid #eee;
+    border-top: 3px solid #eee;
     margin: 20px 0;
 }
 
 ///////////
 h1 {
-    font-size: 34px;
+    font-size: 36px;
     color: black;
     font-weight:bold;
+    text-align: center;
 }
 h2 {
     font-size: 26px;
-    color: #cc0033;
+    color: #0055FF;
     border-bottom: 1px solid #eee;
     font-weight:bold;
+    // 標籤的位置偏移
+    padding-top: 60px; 
+    margin-top: -60px;
 }
 h3 {
-    font-size: 24px;
-    color: #cc0033;
+    font-size: 22px;
+    color: #0055FF;
+    // 標籤的位置偏移
+    padding-top: 60px; 
+    margin-top: -60px;
 }
 h4 {
     font-size: 22px;
@@ -109,7 +116,7 @@ table {
     tbody {
         tr {
             &:nth-of-type(2n+1) {
-                background-color: #f8f8fd;
+                background-color: #fefefe;
             }
             &:nth-of-type(2n) {
                 background-color: #e5eaed;

@@ -25,10 +25,7 @@
                         {% else %}
                     <a href="{{site.baseurl}}/">
                     {% endif %}
-                        <font color="#fff">
-                            <i class="fa fa-home"></i>
-                        </font>
-                        Home
+                        <i class="fa fa-home"></i>Home
                     </a>
                 </li>
 
@@ -40,10 +37,7 @@
                             {% else %}
                         <a href="{{ my_page.url | prepend: site.baseurl }}">
                         {% endif %}
-                            <font color="{{ my_page.color }}">
-                                <i class="fa fa-{{my_page.icon}}"></i>
-                            </font>
-                            {{ my_page.title }}
+                            {{my_page.icon}}{{ my_page.title }}
                         </a>
                     </li>
                     {% endif %}
