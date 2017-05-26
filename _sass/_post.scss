@@ -2,6 +2,7 @@
     display: none;
 }
 .page[post] {
+    
     .label {
         margin-top: 16px;
         overflow: hidden;
@@ -29,8 +30,8 @@
         }
     }
     .left {
-        
-        h1 {
+
+        h1#post {
             font-size: 28px;
             color: #0055FF;
             font-weight:bold;
