@@ -6,7 +6,7 @@
  * 反之，取消样式
  */
 (function() {
-    if (window.innerWidth > 770) {
+    if (window.innerWidth > 900) {
 
         var sidebarWrap = document.querySelector('.right>.wrap')
 
@@ -66,12 +66,12 @@ function isMaxHeight() {
 
 //-------------mobile--------------
 /**
- * 屏幕宽度小于850px时，点击锚点按钮，弹出目录框
+ * 屏幕宽度小于900px时，点击锚点按钮，弹出目录框
  * @param  {[type]} function( [description]
  * @return {[type]}           [description]
  */
 (function() {
-    if (window.innerWidth <= 770) {
+    if (window.innerWidth <= 900) {
         var anchorBtn = document.querySelector('.anchor')
         var rightDiv = document.querySelector('.right')
 
