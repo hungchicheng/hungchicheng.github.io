@@ -21,7 +21,7 @@ title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
 <!-- more -->
 <center><b>
 <HR>一一一一一一一一一一一一一一一一一一一一一一一一<br>
-<font color="#0055FF" size="3">&copy;  </font>著作權聲明: <br>
+<font color="#2684E8" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/
 </a><br>

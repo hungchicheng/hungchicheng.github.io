@@ -21,7 +21,7 @@ title: "[Cocos2d-x教程教學] 為什麼用Cocos2d-x來開發跨平台遊戲"
 <!-- more -->
 <center><b>
 <HR>一一一一一一一一一一一一一一一一一一一一一一一一<br>
-<font color="#0055FF" size="3">&copy;  </font>著作權聲明: <br>
+<font color="#2684E8" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2014/12/01/cocosdx-lua-why/" id="link" target="_blank">
 	http://hungchicheng.me/2014/12/01/cocosdx-lua-why/
 </a><br>

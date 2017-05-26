@@ -66,7 +66,7 @@ function isMaxHeight() {
 
 //-------------mobile--------------
 /**
- * 屏幕宽度小于770px时，点击锚点按钮，弹出目录框
+ * 屏幕宽度小于850px时，点击锚点按钮，弹出目录框
  * @param  {[type]} function( [description]
  * @return {[type]}           [description]
  */
