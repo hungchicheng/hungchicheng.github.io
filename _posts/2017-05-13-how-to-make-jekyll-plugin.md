@@ -6,7 +6,7 @@ date:  2017-05-13 21:22:54
 last_modified_at: 2017-05-22 19:00:00
 title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
 ---
-<!--                 Title 的建議最大長度                    -->
+<!--                Title 的建議最大長度                   -->
 
 * content
 {:toc}
@@ -20,17 +20,15 @@ title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
 
 <!-- more -->
 <center><b>
-<HR>一一一一一一一一一一一一一一一一一一一一一一一一一一一<br>
+<HR>一一一一一一一一一一一一一一一一一一一一一一一一<br>
 <font color="#0055FF" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/
 </a><br>
 歡迎分享轉載,  並請註明連結<br>
-一一一一一一一一一一一一一一一一一一一一一一一一一一一<HR>
+一一一一一一一一一一一一一一一一一一一一一一一一<HR>
 </b></center>
 <!-- end -->
-
-<img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="600"><br>
 
 
 ## 一. 換主題
@@ -40,7 +38,7 @@ title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
 => 其實可以一行指令都不用打... 直接站在巨人的肩膀上吧!!<br>
 最簡單的方法就是, 進去下面網址直接挑選, 下載下來, 貼到你 Github 資料夾中再上傳就搞定了...<br>
 某些主題的作者會希望你去他的 Github 上按個 fork, 記得去按一下啦!!
-
+<img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="600"><br>
 <http://jekyllthemes.org/><br>
 <https://jekyllthemes.io/><br>
 <http://themes.jekyllrc.org/><br>

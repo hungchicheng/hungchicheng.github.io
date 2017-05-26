@@ -6,7 +6,7 @@ date:  2014-12-01 21:22:54
 last_modified_at: 2017-05-22 19:00:00
 title: "[Cocos2d-x教程教學] 為什麼用Cocos2d-x來開發跨平台遊戲"
 ---
-<!--                 Title 的建議最大長度                    -->
+<!--                Title 的建議最大長度                   -->
 
 * content
 {:toc}
@@ -20,13 +20,13 @@ title: "[Cocos2d-x教程教學] 為什麼用Cocos2d-x來開發跨平台遊戲"
 
 <!-- more -->
 <center><b>
-<HR>一一一一一一一一一一一一一一一一一一一一一一一一一一一<br>
-&copy;著作權聲明: <br>
+<HR>一一一一一一一一一一一一一一一一一一一一一一一一<br>
+<font color="#0055FF" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2014/12/01/cocosdx-lua-why/" id="link" target="_blank">
 	http://hungchicheng.me/2014/12/01/cocosdx-lua-why/
 </a><br>
 歡迎分享轉載,  並請註明連結<br>
-一一一一一一一一一一一一一一一一一一一一一一一一一一一<HR>
+一一一一一一一一一一一一一一一一一一一一一一一一<HR>
 </b></center>
 <!-- end -->
 

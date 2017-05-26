@@ -21,18 +21,21 @@
     }
     a {
         color: #4d4d4d;
+        text-decoration:underline;
         transition: 0.2s ease;
         &:hover {
             color: #0055FF;
             background-color: #f4efeb;
         }
     }
-    .categories {
-        a {
-            color: #0055FF;
-        }
-    }
     .left {
+        
+        h1 {
+            font-size: 28px;
+            color: #0055FF;
+            font-weight:bold;
+        }
+
         ul {
             >h2 {
                 color: #333;

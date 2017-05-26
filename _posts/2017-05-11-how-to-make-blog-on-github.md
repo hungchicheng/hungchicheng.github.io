@@ -6,7 +6,7 @@ date:  2017-05-11 21:22:54
 last_modified_at: 2017-05-22 19:00:00
 title: "[Jekyll及GitHub Page教學1] 20分鐘建立免費部落格"
 ---
-<!--                 Title 的建議最大長度                    -->
+<!--                Title 的建議最大長度                   -->
 
 * content
 {:toc}
@@ -20,17 +20,15 @@ title: "[Jekyll及GitHub Page教學1] 20分鐘建立免費部落格"
 
 <!-- more -->
 <center><b>
-<HR>一一一一一一一一一一一一一一一一一一一一一一一一一一一<br>
+<HR>一一一一一一一一一一一一一一一一一一一一一一一一<br>
 <font color="#0055FF" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/
 </a><br>
 歡迎分享轉載,  並請註明連結<br>
-一一一一一一一一一一一一一一一一一一一一一一一一一一一<HR>
+一一一一一一一一一一一一一一一一一一一一一一一一<HR>
 </b></center>
 <!-- end -->
-
-<img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll Logo" width="300"><br>
 
 ## 各部落格平台
 1. 痞客邦
@@ -61,6 +59,7 @@ title: "[Jekyll及GitHub Page教學1] 20分鐘建立免費部落格"
 不需自己建伺服器, 不用特別的的設定, 就可以製作個人的網頁, 更可以綁定自己的網域名城, 
 不需要再費心思處理各種麻煩事了.<br>
 <br>
+<img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll Logo" width="300"><br>
 ### 安裝方法<br>
 1. 申請 GitHub賬號 <https://github.com/> (賬號username就會是你未來的網址)
 2. 下載安裝 GitHub Desktop <https://desktop.github.com/> 桌面版本 並且輸入你的賬號密碼

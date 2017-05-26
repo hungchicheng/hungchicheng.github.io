@@ -4,9 +4,9 @@ categories: GitHubPage
 tags:  GitHub Jekyll 百度 Coding.net 部落格 博客 索引 教程 教學 懶人包
 date:  2017-05-14 21:22:54
 last_modified_at: 2017-05-22 19:00:00
-title: "[Jekyll及GitHub Page進階教學] Coding.net鏡像讓百度爬蟲抓取"
+title: "[Jekyll及GitHub Page進階教學] 讓百度抓Coding.net鏡像"
 ---
-<!--                 Title 的建議最大長度                    -->
+<!--                Title 的建議最大長度                   -->
 
 * content
 {:toc}
@@ -20,14 +20,13 @@ title: "[Jekyll及GitHub Page進階教學] Coding.net鏡像讓百度爬蟲抓取
 
 <!-- more -->
 <center><b>
-<HR>一一一一一一一一一一一一一一一一一一一一一一一一一一一<br>
+<HR>一一一一一一一一一一一一一一一一一一一一一一一一<br>
 <font color="#0055FF" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/
 </a><br>
 歡迎分享轉載,  並請註明連結<br>
-
-一一一一一一一一一一一一一一一一一一一一一一一一一一一<HR>
+一一一一一一一一一一一一一一一一一一一一一一一一<HR>
 </b></center>
 <!-- end -->
 
