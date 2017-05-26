@@ -23,13 +23,13 @@
     visibility: visible;
     opacity: 0.7;
 }
-@media screen and (max-width:1200px) and (min-width: 770px) {
+@media screen and (max-width:1200px) and (min-width: 850px) {
     .back-to-top {
         left: 50%;
         margin-left: 45.5%;
     }
 }
-@media screen and (max-width: 770px) {
+@media screen and (max-width: 850px) {
     .back-to-top {
         right:2.5%;
         left: auto;
