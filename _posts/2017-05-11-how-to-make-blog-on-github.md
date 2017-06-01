@@ -20,13 +20,13 @@ title: "[Jekyll及GitHub Page教學1] 20分鐘建立免費部落格"
 
 <!-- more -->
 <center><b>
-<HR>一一一一一一一一一一一一一一一一一一一一一一一一<br>
+一一一一一一一一一一一一一一一一一一一一一一一一<br>
 <font color="#2684E8" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/
 </a><br>
 歡迎分享轉載,  並請註明連結<br>
-一一一一一一一一一一一一一一一一一一一一一一一一<HR>
+一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>
 <!-- end -->
 

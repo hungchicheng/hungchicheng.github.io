@@ -20,13 +20,13 @@ title: "[Jekyll及GitHub Page進階教學] 讓百度抓Coding.net鏡像"
 
 <!-- more -->
 <center><b>
-<HR>一一一一一一一一一一一一一一一一一一一一一一一一<br>
+一一一一一一一一一一一一一一一一一一一一一一一一<br>
 <font color="#2684E8" size="3">&copy;  </font>著作權聲明: <br>
 <a href="http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/
 </a><br>
 歡迎分享轉載,  並請註明連結<br>
-一一一一一一一一一一一一一一一一一一一一一一一一<HR>
+一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>
 <!-- end -->
 
