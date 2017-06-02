@@ -23,7 +23,6 @@
     a {
         color: #4d4d4d;
         text-decoration:underline;
-        transition: 0.2s ease;
         &:hover {
             color: #2684E8;
             background-color: #f4efeb;
@@ -45,6 +44,11 @@
                 color: #333;
                 margin: 0;
             }
+        }
+
+        p {
+            font-size: 17px;
+            color: #000;
         }
     }
 }

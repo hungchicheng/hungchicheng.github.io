@@ -85,6 +85,3 @@ gems: [jekyll-paginate, jekyll-sitemap] #, jekyll-admin]
 paginate: 3
 # excerpt
 excerpt_separator: "<!-- more -->"
-
-# personal def
-post_end_sentence: "!!!!!!如果有任何問題,歡迎在下方提出哦!!!!!!"
