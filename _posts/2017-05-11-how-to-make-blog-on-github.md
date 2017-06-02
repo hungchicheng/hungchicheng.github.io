@@ -12,13 +12,16 @@ title: "[Jekyll及GitHub Page教學1] 20分鐘建立免費部落格"
 {:toc}
 
 <!-- 文章概要 -->
-想弄一個Blog來記錄之前存下來的各種Code, <br>
-看到Jekyll竟然可以用GitHub來架自己管理的Blog...<br>
-這真的是太方便了, <br>
+<img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll Logo" width="200" align="left">
+我最近想弄一個Blog來記錄以前存下來的各種Code, <br>
+查了一查就看到Jekyll,
+竟然可以用GitHub來架自己管理的Blog...這真的是太方便了,<br>
 這篇就是記錄Jekyll部落格的特點, <br>
 以及我架Blog的方法及教學.<br>
 
 <!-- more -->
+<br>
+<br>
 <center><b>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 <font color="#2684E8" size="3">&copy;  </font>著作權聲明: <br>

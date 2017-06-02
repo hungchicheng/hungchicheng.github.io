@@ -12,11 +12,15 @@ title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
 {:toc}
 
 <!-- 文章概要 -->
+<img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="200" align="left">
+<br>
 上一篇講了我安裝jekyll+放上 GitHub Page的方法:<br>
 [Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/)<br>
-基本上沒有安裝主題還是可以使用啦,<br>
-但是更換個好看的主題(theme)更可以吸引其他人來觀看哦<br>
-另外講一下插件的功能.<br>
+<br>
+<br>
+基本上沒有安裝主題還是可以使用啦, 但是更換個好看的主題(theme)可以變更漂亮哦!!<br>
+我就去找了一下換主題的方法, 這篇就用可以秒殺的方法記下我找主題的方法啦,<br>
+另外再講一下方便的插件功能.<br>
 
 <!-- more -->
 <center><b>
