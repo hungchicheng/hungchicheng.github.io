@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: GitHubPage
-tags:  GitHub Jekyll Plugin SiteMap Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
+tags:  GitHub Jekyll Plugin SiteMap Jekyll-paginate Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-13 21:22:54
 last_modified_at: 2017-05-22 19:00:00
 title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
@@ -12,15 +12,8 @@ title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
 {:toc}
 
 <!-- 文章概要 -->
-<img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="200" align="left">
-<br>
-上一篇講了我安裝jekyll+放上 GitHub Page的方法:<br>
-[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/)<br>
-<br>
-<br>
-基本上沒有安裝主題還是可以使用啦, 但是更換個好看的主題(theme)可以變更漂亮哦!!<br>
-我就去找了一下換主題的方法, 這篇就用可以秒殺的方法記下我找主題的方法啦,<br>
-另外再講一下方便的插件功能.<br>
+<img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="300" itemprop="image"><br>
+Jekyll安裝好後, 就可以在GitHub上使用部落格了, 所以也可以開始換個漂亮的主題(theme)了哦!! 這篇就用記下換主題及利用Jekyll-paginate Jekyll-sitemap Jekyll-admin.
 
 <!-- more -->
 <center><b>
@@ -33,6 +26,10 @@ title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>
 <!-- end -->
+
+<br>
+上一篇講了我安裝jekyll+放上 GitHub Page的方法:<br>
+[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/)<br>
 
 
 ## 一. 換主題
@@ -56,9 +53,11 @@ title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
 
 ### 推薦的插件
 * [jekyll-paginate](https://github.com/jekyll/jekyll-paginate)
-* jekyll-sitemap
-* jekyll-admin
-* jekyll-multiple-languages
+>Pagination Generator for Jekyll
+* [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
+>Jekyll plugin to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+* [jekyll-admin](https://github.com/jekyll/jekyll-admin)
+>A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 
 ### 安裝
 前置作業需要先安裝bundler,終端機下個等他跑完吧<br>

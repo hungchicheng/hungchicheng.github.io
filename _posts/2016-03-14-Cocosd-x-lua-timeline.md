@@ -4,7 +4,7 @@ categories: Cocos2d-x
 tags:  Cocos2d-x Lua 教程 教學 
 date:  2016-03-14 15:22:54
 last_modified_at: 2017-05-18 19:00:00
-title: "【Cocos2d-x教程教學】Cocos2d-x Lua動畫事件"
+title: "【Cocos2d-x教程教學】Lua動畫事件"
 ---
 <!--                Title 的建議最大長度                   -->
 

@@ -1,10 +1,11 @@
 ---
 layout: post
 categories: GitHubPage
-tags:  GitHub Jekyll 百度 Coding.net 部落格 博客 索引 教程 教學 懶人包
+tags:  GitHub Jekyll 百度 Coding.net 網域名稱 godaddy CloudXNS 智能解析DNS 部落格 博客 索引 教程 教學 懶人包
 date:  2017-05-14 21:22:54
 last_modified_at: 2017-05-22 19:00:00
-title: "[Jekyll及GitHub Page進階教學] 讓百度抓Coding.net鏡像"
+author: <a href="/about">Hung-Chi Cheng</a>
+title: "[Jekyll及GitHub Page教學] 讓百度搜尋Github部落格"
 ---
 <!--                Title 的建議最大長度                   -->
 
@@ -12,14 +13,9 @@ title: "[Jekyll及GitHub Page進階教學] 讓百度抓Coding.net鏡像"
 {:toc}
 
 <!-- 文章概要 -->
-<img src="http://www.baidu.com/img/bd_logo1.png" alt="baidu logo" width="200" align="left"><br>
-上上一篇講了我 安裝jekyll+放上 GitHub Page的方法:  [Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/), <br>
-上一篇講了我 更換主題及安裝插件的方法:  [Jekyll及GitHub Page教學(二) 更換主題及安裝插件](http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/)<br>
-<br>
-這次我發現中國最大的搜尋引擎百度並不會自動抓 Github Page 的內容,<br>
-但我會有一部分的文章寫跟 cocos2d-x 有關的文章,<br>
-少了百度搜尋好像就少了什麼(有時候我也會到百度搜尋看看cocos遇到的問題啦...)<br>
-所以找到了這個方法作鏡像,讓百度蜘蛛可以直接爬這裡,就不用怕 Github 拒絕百度了.
+<img src="http://www.baidu.com/img/bd_logo1.png" alt="baidu logo" width="300" itemprop="image">
+<br><br>
+這次發現百度搜尋引擎並不會抓Github的內容當索引, 所以用了Coding.net鏡像Github, 再購買godaddy的網域名稱, 再透過CloudXNS智能解析DNS, 讓我的部落格可以讓百度蜘蛛爬鏡像, 就不用怕 Github 拒絕百度了. 要做這些是因為我會有一部分的文章寫跟 Cocos2d-x 有關的文章, 少了百度搜尋好像就少了什麼(有時候我也會到百度搜尋看看Cocos遇到的問題啦...)<br>
 
 <!-- more -->
 <center><b>
@@ -32,6 +28,11 @@ title: "[Jekyll及GitHub Page進階教學] 讓百度抓Coding.net鏡像"
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>
 <!-- end -->
+
+上上一篇講了我 安裝jekyll+放上 GitHub Page的方法:<br>
+[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/), <br>
+上一篇講了我 更換主題及安裝插件的方法:<br>
+[Jekyll及GitHub Page教學(二) 更換主題及安裝插件](http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/)<br>
 
 ## 第一步- 網域名稱
 先弄一個網域名城, 網路上這部分的資料相當多, 這裡就不在敘述了,<br>
@@ -72,7 +73,7 @@ git push mirror master        # 送交到coding.net
 在填入你的網域名稱綁定即可.<br>
 經過以上的操作後, 可以進入 [hungchicheng.coding.me](http://hungchicheng.coding.me)就可以看到你鏡像的網站了
 
-## 第三步- CloudXns智能解析DNS
+## 第三步- CloudXNS智能解析DNS
 這裡我是利用中國免費的 DNS 網域名城伺服器,<br> 
 將百度的 ip 重新導入coding.net其他的導入回github.<br>
 首先申請好賬號,並且把裡面的"網域名稱伺服器"設定回godaddy.
@@ -82,7 +83,7 @@ lv3ns2.ffdns.net
 lv3ns3.ffdns.net
 lv3ns4.ffdns.net
 ```
-填到godaddy裡面等個10分鐘左右, 就會看到你的網域已經成功被CloudXns接管,
+填到godaddy裡面等個10分鐘左右, 就會看到你的網域已經成功被CloudXNS接管,
 <img src="/image/2017-05-14-how-to-let-baidu-search/CloudXNS state.png" alt="CloudXNS state" width="800"><br>
 就可以進入設定"全网默认" 指定回 github<br>
 "百度" 指定到 coding.net<br>
