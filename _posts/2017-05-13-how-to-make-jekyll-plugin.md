@@ -1,5 +1,6 @@
 ---
 layout: post
+author: <a href="/about">Hung-Chi Cheng</a>
 categories: GitHubPage
 tags:  GitHub Jekyll Plugin SiteMap Jekyll-paginate Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-13

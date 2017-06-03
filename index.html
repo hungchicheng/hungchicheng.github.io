@@ -42,15 +42,16 @@ last_modified_at: 2017-06-04
                         <i class="fa fa-calendar"></i>{{ post.date | date: "%F" }}
                     </div>
                     <div class="label-card">
-                        {% if post.author %}<i class="fa fa-user"></i>{{ post.author }}
-                        {% endif %}
-                    </div>
-                    <div class="label-card">
                         {% if page.meta %}<i class="fa fa-key"></i>{{ page.meta }}  {% endif %}
                     </div>
 
                     <div class="label-card">
                     {% include category.html %}
+                    </div>
+
+                    <div class="label-card">
+                        {% if post.author %}<i class="fa fa-user"></i>{{ post.author }}
+                        {% endif %}
                     </div>
 
                     <div class="label-card">

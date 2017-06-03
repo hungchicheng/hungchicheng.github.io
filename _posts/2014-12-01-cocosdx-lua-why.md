@@ -1,5 +1,6 @@
 ---
 layout: post
+author: <a href="/about">Hung-Chi Cheng</a>
 categories: Cocos2d-x
 tags:  Cocos2d-x Lua 腳本 遊戲開發 遊戲引擎 反編譯 編輯器 跨平台 輔助開發軟體 教程 教學 
 date:  2014-12-01

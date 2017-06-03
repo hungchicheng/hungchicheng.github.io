@@ -1,5 +1,6 @@
 ---
 layout: post
+author: <a href="/about">Hung-Chi Cheng</a>
 categories: Cocos2d-x
 tags:  Lua 教程 教學 
 date:  2016-08-17
