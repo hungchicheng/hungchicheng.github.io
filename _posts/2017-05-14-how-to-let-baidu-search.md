@@ -2,8 +2,8 @@
 layout: post
 categories: GitHubPage
 tags:  GitHub Jekyll 百度 Coding.net 網域名稱 godaddy CloudXNS 智能解析DNS 部落格 博客 索引 教程 教學 懶人包
-date:  2017-05-14 21:22:54
-last_modified_at: 2017-05-22 19:00:00
+date:  2017-05-14
+last_modified_at: 2017-06-04
 author: <a href="/about">Hung-Chi Cheng</a>
 title: "[Jekyll及GitHub Page教學] 讓百度搜尋Github部落格"
 ---

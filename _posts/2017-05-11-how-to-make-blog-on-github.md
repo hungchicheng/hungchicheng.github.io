@@ -2,8 +2,8 @@
 layout: post
 categories: GitHubPage
 tags:  GitHub Jekyll Pages 網站 HTML 部落格 博客 教程 教學 懶人包
-date:  2017-05-11 21:22:54
-last_modified_at: 2017-05-22 19:00:00
+date:  2017-05-11
+last_modified_at: 2017-06-04
 title: "[Jekyll及GitHub Page教學1] 20分鐘建立免費部落格"
 ---
 <!--                Title 的建議最大長度                   -->
