@@ -1,6 +1,6 @@
 ---
 layout: post
-author: <a href="/about">Hung-Chi Cheng</a>
+author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: Cocos2d-x
 tags:  Cocos2d-x Lua 腳本 遊戲開發 遊戲引擎 反編譯 編輯器 跨平台 輔助開發軟體 教程 教學 
 date:  2014-12-01
@@ -20,15 +20,17 @@ title: "[Cocos2d-x教程教學] 為什麼用Cocos2d-x來開發跨平台遊戲"
 也給自己當做筆記記錄用= =+<br>
 
 <!-- more -->
-<center><b>
+<!-- 著作權start -->
+<center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
-<font color="#2684E8" size="3">&copy;  </font>著作權聲明: <br>
+&copy;  著作權聲明: <br>
 <a href="http://hungchicheng.me/2014/12/01/cocosdx-lua-why/" id="link" target="_blank">
 	http://hungchicheng.me/2014/12/01/cocosdx-lua-why/
 </a><br>
 歡迎分享轉載,  並請註明連結<br>
 一一一一一一一一一一一一一一一一一一一一一一一一
-</b></center>
+<br><br></b></center>
+<!-- 著作權end -->
 <!-- end -->
 
 ## 引擎的優點

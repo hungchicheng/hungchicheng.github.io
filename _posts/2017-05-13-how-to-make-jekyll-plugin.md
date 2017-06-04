@@ -1,6 +1,6 @@
 ---
 layout: post
-author: <a href="/about">Hung-Chi Cheng</a>
+author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: GitHubPage
 tags:  GitHub Jekyll Plugin SiteMap Jekyll-paginate Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-13
@@ -13,20 +13,22 @@ title: "[Jekyll及GitHub Page教學教程2] 更換主題及安裝插件"
 {:toc}
 
 <!-- 文章概要 -->
-<img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="300" itemprop="image"><br>
+<center><br>
+<img src="http://img.sur.ly/thumbnails/620x343/j/jekyllthemes.org.png" alt="jekyllthemes webpage" width="300" itemprop="image">
+</center><br>
 Jekyll安裝好後, 就可以在GitHub上使用部落格了, 所以也可以開始換個漂亮的主題(theme)了哦!! 這篇就用記下換主題及利用Jekyll-paginate Jekyll-sitemap Jekyll-admin.
-
 <!-- more -->
-<center><b>
+
+<!-- 著作權start -->
+<center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
-<font color="#2684E8" size="3">&copy;  </font>著作權聲明: <br>
+&copy; Hung-Chi's Blog<br>
 <a href="http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/
 </a><br>
-歡迎分享轉載,  並請註明連結<br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>
-<!-- end -->
+<!-- 著作權end -->
 
 <br>
 上一篇講了我安裝jekyll+放上 GitHub Page的方法:<br>

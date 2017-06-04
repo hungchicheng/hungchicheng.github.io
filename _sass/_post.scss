@@ -2,7 +2,13 @@
     display: none;
 }
 .page[post] {
-    
+    a {
+        color: #2684E8;
+        &:hover {
+            ext-decoration:underline;
+            background-color: #f4efeb;
+        }
+    }
     .label {
         margin-top: 16px;
         overflow: hidden;
@@ -10,6 +16,7 @@
             float: left;
             font-size: 14px;
             margin-right: 15px;
+            color: #6b6a6a;
             .point {
                 padding: 0 10px;
                 color: #bdbdbd;
@@ -18,21 +25,20 @@
                 padding-right: 5px;
                 color: #6b6a6a;
             }
-        }
-    }
-    a {
-        color: #4d4d4d;
-        text-decoration:underline;
-        &:hover {
-            color: #2684E8;
-            background-color: #f4efeb;
+            a {
+                color: #4d4d4d;
+                &:hover {
+                    color: #2684E8;
+                    text-decoration:underline;
+                }
+            }
         }
     }
     .left {
 
         h1#post {
             font-size: 28px;
-            color: #2684E8;
+            //color: #2684E8;
             font-weight:bold;
         }
 
@@ -47,8 +53,8 @@
         }
 
         p {
-            font-size: 17px;
-            color: #000;
+            //font-size: 17px;
+            //color: #4d4d4d;
             letter-spacing:1px;
         }
     }

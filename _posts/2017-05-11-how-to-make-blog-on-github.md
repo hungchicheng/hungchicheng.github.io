@@ -1,6 +1,6 @@
 ---
 layout: post
-author: <a href="/about">Hung-Chi Cheng</a>
+author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: GitHubPage
 tags:  GitHub Jekyll Pages 網站 HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-11
@@ -13,23 +13,23 @@ title: "[Jekyll及GitHub Page教學教程1] 快速建立免費部落格"
 {:toc}
 
 <!-- 文章概要 -->
-<img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll Logo" width="250" itemprop="image"><br>
+<center><br>
+<img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll Logo" width="250" itemprop="image">
+</center><br>
 最近用Jekyll在Github架本部落格Blog, 本篇教學教程用Jekyll + Github Pages架設部落格Blog的方法,及簡介Jekyll(可參考Jekyll官網教學教程),下篇教學教程2再講Jekyll Theme及Jekyll Plugin. 實際裝完Jekyll部落格Blog後,發現HTML跟CSS都可以依照喜好更改,而且不用受限部落格Blog平台,真的是太方便了!!!我決定把它拿來存放以前存下來的各種Code,也希望開始有個部落格Blog筆記給未來的自己,我的部落格Blog就這樣誕生了!!.<br>
-
-
 <!-- more -->
-<br>
-<br>
-<center><b>
+
+
+<!-- 著作權start -->
+<center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
-<font color="#2684E8" size="3">&copy;  </font>著作權聲明: <br>
+&copy; Hung-Chi's Blog<br>
 <a href="http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/" id="link" target="_blank">
 	http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/
 </a><br>
-歡迎分享轉載,  並請註明連結<br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>
-<!-- end -->
+<!-- 著作權end -->
 
 ## 各部落格平台
 1. 痞客邦
