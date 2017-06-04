@@ -4,8 +4,8 @@ author: <a href="/about">Hung-Chi Cheng</a>
 categories: GitHubPage
 tags:  GitHub Jekyll Pages 網站 HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-11
-last_modified_at: 2017-06-04
-title: "[Jekyll及GitHub Page教學1] 20分鐘建立免費部落格"
+last_modified_at: 2017-06-05
+title: "[Jekyll及GitHub Page教學教程1] 快速建立免費部落格"
 ---
 <!--                Title 的建議最大長度                   -->
 
@@ -14,7 +14,8 @@ title: "[Jekyll及GitHub Page教學1] 20分鐘建立免費部落格"
 
 <!-- 文章概要 -->
 <img src="http://jekyllrb.com/img/octojekyll.png" alt="Jekyll Logo" width="250" itemprop="image"><br>
-我弄了一個Blog來記錄以前存下來的各種Code, 發現Jekyll太好用了, 可以用GitHub Pages來架自己的 部落格(Blog), 而且 html 跟 css 都可以依照自己的喜好來做更改, 不受限於一般部落格平台, 真的是太方便了, 這篇就是記錄Jekyll部落格的特點, 以及我架Blog的方法及教學.<br>
+最近用Jekyll在Github架本部落格Blog, 本篇教學教程用Jekyll + Github Pages架設部落格Blog的方法,及簡介Jekyll(可參考Jekyll官網教學教程),下篇教學教程2再講Jekyll Theme及Jekyll Plugin. 實際裝完Jekyll部落格Blog後,發現HTML跟CSS都可以依照喜好更改,而且不用受限部落格Blog平台,真的是太方便了!!!我決定把它拿來存放以前存下來的各種Code,也希望開始有個部落格Blog筆記給未來的自己,我的部落格Blog就這樣誕生了!!.<br>
+
 
 <!-- more -->
 <br>

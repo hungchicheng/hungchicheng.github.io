@@ -4,8 +4,8 @@ author: <a href="/about">Hung-Chi Cheng</a>
 categories: GitHubPage
 tags:  GitHub Jekyll Plugin SiteMap Jekyll-paginate Jekyll-sitemap Jekyll-admin HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-13
-last_modified_at: 2017-06-04
-title: "[Jekyll及GitHub Page教學2] 更換主題及安裝插件"
+last_modified_at: 2017-06-05
+title: "[Jekyll及GitHub Page教學教程2] 更換主題及安裝插件"
 ---
 <!--                Title 的建議最大長度                   -->
 
