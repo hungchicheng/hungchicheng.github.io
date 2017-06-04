@@ -25,9 +25,8 @@ last_modified_at: 2017-06-05
 </center>
 
 ## Author
-#### Hung-Chi Cheng <br>(程弘錡)
-
-Senior Software Engineer with 3 years of work experience at International Games System Company. With a Master's degree focused in Computer Science from National Taipei University. 
+<H4>Hung-Chi Cheng, (程弘錡)</H4>
+* Senior Software Engineer with 3 years of work experience at International Games System Company. With a Master's degree focused in Computer Science from National Taipei University. 
 
 ## Skill Set
 * Language: Lua, C++, Object-c, Swift, Golang, C#
