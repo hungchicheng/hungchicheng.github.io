@@ -5,7 +5,7 @@ categories: GitHubPage
 tags:  GitHub Jekyll Pages 網站 HTML 部落格 博客 教程 教學 懶人包
 date:  2017-05-11
 last_modified_at: 2017-06-05
-title: "[Jekyll及GitHub Page教學教程1] 快速建立免費部落格"
+title: "[Jekyll及GitHub Page教學1] 快速建立免費部落格"
 ---
 <!--                Title 的建議最大長度                   -->
 
