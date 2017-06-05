@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  {% include header.html %}
+  {% capture header %}{% include header.html %}{% endcapture %}{{ header | strip_newlines }}
 
   <body>
 
