@@ -5,7 +5,7 @@ categories: GitHubPage
 tags:  GitHub Jekyll 百度 Coding.net 網域名稱 godaddy CloudXNS 智能解析DNS 部落格 博客 索引 教程 教學 懶人包
 date:  2017-05-14
 last_modified_at: 2017-06-05
-title: "[Jekyll及GitHub Page教學3] 讓百度索引部落格的方法"
+title: "[Jekyll及GitHub教學3] 讓百度索引部落格的教程"
 ---
 <!--                Title 的建議最大長度                   -->
 
@@ -16,11 +16,11 @@ title: "[Jekyll及GitHub Page教學3] 讓百度索引部落格的方法"
 <center><br>
 <img src="http://www.baidu.com/img/bd_logo1.png" alt="baidu logo" width="300" itemprop="image">
 </center><br>
-這次發現百度搜尋引擎並不會抓Github的內容當索引, 所以用了Coding.net鏡像Github, 再購買godaddy的網域名稱, 再透過CloudXNS智能解析DNS, 讓我的部落格可以讓百度蜘蛛爬鏡像, 就不用怕 Github 拒絕百度了. 要做這些是因為我會有一部分的文章寫跟 Cocos2d-x 有關的文章, 少了百度搜尋好像就少了什麼(有時候我也會到百度搜尋看看Cocos遇到的問題啦...)<br>
+發現百度搜尋引擎並不會抓Github的內容當索引, 所以這次教學Coding.net鏡像Github教程, 再購買godaddy的網域名稱, 再透過CloudXNS智能解析DNS, 讓我的部落格可以讓百度蜘蛛爬鏡像, 就不用怕 Github 拒絕百度了. 要做這些是因為我會有一部分的文章寫跟 Cocos2d-x 有關的文章, 少了百度搜尋好像就少了什麼(有時候我也會到百度搜尋看看Cocos遇到的問題啦...)<br><br>
 <!-- more -->
 
 上上一篇講了我 安裝jekyll+放上 GitHub Page的方法:<br>
-[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/), <br>
+[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/),<br>
 上一篇講了我 更換主題及安裝插件的方法:<br>
 [Jekyll及GitHub Page教學(二) 更換主題及安裝插件](http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/)<br>
 
