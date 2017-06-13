@@ -4,8 +4,8 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: Cocos2d-x
 tags:  Cocos2d-x Lua 教程 教學 
 date:  2016-03-14
-last_modified_at: 2017-06-04
-title: "【Cocos2d-x教程教學】Lua動畫事件"
+last_modified_at: 2017-06-13
+title: "Cocos2d-x教程教學》Lua動畫事件"
 ---
 <!--                Title 的建議最大長度                   -->
 

@@ -4,8 +4,8 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: GitHubPage
 tags:  GitHub Jekyll SEO 搜尋優化 Google搜尋 schema.org Microdata 結構化 部落格 博客 索引 教程 教學 懶人包
 date:  2017-06-02
-last_modified_at: 2017-06-05
-title: "[Jekyll及GitHub教學4] SEO優化-讓網站更易被搜尋"
+last_modified_at: 2017-06-13
+title: "Jekyll及GitHub教學4》SEO優化-讓網站更易被搜尋"
 ---
 <!--                Title 的建議最大長度                   -->
 
@@ -14,7 +14,7 @@ title: "[Jekyll及GitHub教學4] SEO優化-讓網站更易被搜尋"
 
 <!-- 文章概要 -->
 <center><br>
-<img src="https://cdn.pixabay.com/photo/2013/01/29/01/02/google-76522_960_720.png" alt="google search logo" width="300" itemprop="image">
+<img src="/image/2017-06-02-adding-schema-org-metadata-to-Jekyll/google-search.png" alt="google search logo" width="300" itemprop="image">
 </center><br>
 本篇教學Jekyll加入Schema.org的SEO優化教程,Schema.org為可擴展schemas中,推的Microdata格式,Microdata也是HTML5的一部份,可以讓搜尋引擎更易了解部落格Blog網站內容,加強在地SEO(搜尋引擎最佳化/優化search engine optimization),進而提升被搜尋引擎檢索的機率. 會做這個其實是一位做前端的朋友看到我Blog後給我的建議,Jekyll架構下實作也不難,如果能多多少少提升一點搜尋量好像也不錯!!就記錄下來了.<br><br>
 <!-- more -->

@@ -4,8 +4,8 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: GitHubPage
 tags:  GitHub Jekyll 百度 Coding.net 網域名稱 godaddy CloudXNS 智能解析DNS 部落格 博客 索引 教程 教學 懶人包
 date:  2017-05-14
-last_modified_at: 2017-06-05
-title: "[Jekyll及GitHub教學3] 讓百度索引部落格的教程"
+last_modified_at: 2017-06-13
+title: "Jekyll及GitHub教學3》讓百度索引部落格的教程"
 ---
 <!--                Title 的建議最大長度                   -->
 
@@ -55,7 +55,7 @@ title: "[Jekyll及GitHub教學3] 讓百度索引部落格的教程"
 ### 鏡像
 ```
 # 專案目錄下
-git remote add mirror git@git.coding.net:hungchicheng/hungchicheng.git
+git remote add mirror https://git.coding.net/hungchicheng/hungchicheng.git
 ```
 如果不小心弄錯的話... <br>
 可以到目錄底下的.git資料夾的config文件,<br>
@@ -92,4 +92,18 @@ lv3ns4.ffdns.net
 如下圖:<br>
 <img src="/image/2017-05-14-how-to-let-baidu-search/CloudXNS Cname.png" alt="CloudXNS Cname" width="800"><br>
 這樣就搞定嘍!!<br> 
-回去[百度站長工具](http://zhanzhang.baidu.com/)抓取診斷+登錄網站吧
+回去[百度站長工具](http://zhanzhang.baidu.com/)抓取診斷+登錄網站吧<br> 
+<br> 
+測試連線正常可以在cmd下, 就可以看到跳轉結果<br> 
+dig hungchicheng.me +nostats +nocomments +nocmd
+```
+$ dig hungchicheng.me +nostats +nocomments +nocmd
+
+; <<>> DiG 9.8.3-P1 <<>> hungchicheng.me +nostats +nocomments +nocmd
+;; global options: +cmd
+;hungchicheng.me.		IN	A
+hungchicheng.me.	752	IN	CNAME	hungchicheng.github.io.
+hungchicheng.github.io.	4502	IN	CNAME	github.map.fastly.net.
+github.map.fastly.net.	15	IN	A	151.101.88.133
+
+```
