@@ -4,8 +4,8 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: GitHubPage
 tags:  Google Blogger blogspot Facebook Page m=1 同步留言 自動分享貼文 IFTTT 部落格 博客 教程 教學 懶人包
 date:  2017-06-10
-last_modified_at: 2017-06-13
-title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2017年後確定可使用的方法)"
+last_modified_at: 2017-06-14
+title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2017確定可用)"
 ---
 <!--                Title 的建議最大長度                   -->
 
@@ -126,7 +126,8 @@ window.location.replace(ncr);
 ```
 
 <h4>方法2: 直接設定Comment的網址</h4>
-如果你想保留這是我後來才發現的, 說不定有人會需要用到, 直接更改懶人包的code
+如果你想保留區域化導向, 可以改用這個我後來發現的方法, 給需要用到的人.<br>
+做法就是直接更改懶人包的code的這一段.
 ```
 elem.setAttribute("data-href", "https://" + location.hostname + location.pathname.split("?")[0]); 
 ```
