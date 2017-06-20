@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 icon: <i class="fa fa-heart"></i>
-last_modified_at: 2017-06-05
+last_modified_at: 2017-06-19
 ---
 
 * content

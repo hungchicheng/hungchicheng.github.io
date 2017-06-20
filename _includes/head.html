@@ -3,7 +3,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <title>
+    {% if page.title %}
+      {{ page.title | escape }} | {{ site.title | escape }}
+    {% else %}
+      {{ site.title | escape }} -about a variety of technical problems and solutions encountered by myself.
+    {% endif %}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
     <link rel="shortcut icon" href="/favicon.ico?" type="image/x-icon">
@@ -11,7 +16,7 @@
     <link rel="stylesheet" href="{{ " /css/fontawesome/css/font-awesome.min.css " | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ " /css/main.css " | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ " /feed.xml " | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml " | prepend: site.baseurl | prepend: site.url }}">
 
 {% if site.baidu_tongji_id %}
     <script>

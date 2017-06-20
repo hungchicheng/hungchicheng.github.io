@@ -4,7 +4,7 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: Cocos2d-x
 tags:  Cocos2d-x Lua 腳本 遊戲開發 遊戲引擎 反編譯 編輯器 跨平台 輔助開發軟體 教程 教學 
 date:  2014-12-01
-last_modified_at: 2017-06-13
+last_modified_at: 2017-06-19
 title: "Cocos2d-x教程教學》為什麼用Cocos2d-x來開發跨平台遊戲"
 ---
 <!--                Title 的建議最大長度                   -->

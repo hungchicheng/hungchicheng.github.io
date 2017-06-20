@@ -3,7 +3,7 @@ layout: page
 title: Collections
 permalink: /collection/
 icon: <i class="fa fa-bookmark"></i>
-last_modified_at: 2017-06-04
+last_modified_at: 2017-06-19
 ---
 
 * content

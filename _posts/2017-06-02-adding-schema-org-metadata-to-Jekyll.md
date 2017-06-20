@@ -4,7 +4,7 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: GitHubPage
 tags:  GitHub Jekyll SEO 搜尋優化 Google搜尋 schema.org Microdata 結構化 部落格 博客 索引 教程 教學 懶人包
 date:  2017-06-02
-last_modified_at: 2017-06-13
+last_modified_at: 2017-06-19
 title: "Jekyll及GitHub教學4》SEO優化-讓網站更易被搜尋"
 ---
 <!--                Title 的建議最大長度                   -->

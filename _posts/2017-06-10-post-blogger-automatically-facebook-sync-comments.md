@@ -4,7 +4,7 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: GitHubPage
 tags:  Google Blogger blogspot Facebook Page m=1 同步留言 自動分享貼文 IFTTT 部落格 博客 教程 教學 懶人包
 date:  2017-06-10
-last_modified_at: 2017-06-14
+last_modified_at: 2017-06-19
 title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2017確定可用)"
 ---
 <!--                Title 的建議最大長度                   -->
