@@ -104,7 +104,7 @@ title: "Jekyll及GitHub教學1》快速20分鐘建立免費部落格"
 <br>
 ### 安裝方法<br>
 
-* Windows- [請先參考官方的前置作業教學](http://jekyllcn.com/docs/windows/#installation)<br>
+* Windows- [請先參考官方的前置作業教學](https://jekyllrb.com/docs/windows/)<br>
 * MAC- [如果跟我一樣Ruby版本太舊, 請先更新](https://www.ruby-lang.org/zh_tw/documentation/installation/#homebrew)<br>
 
 1. 接著在終端機下直接輸入
