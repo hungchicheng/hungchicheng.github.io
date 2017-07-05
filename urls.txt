@@ -13,3 +13,4 @@ http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/
 http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/
 http://hungchicheng.me/2017/06/02/adding-schema-org-metadata-to-Jekyll/
 http://hungchicheng.me/2017/06/10/post-blogger-automatically-facebook-sync-comments/
+http://hungchicheng.me/2017/07/04/Easy-way-to-install-both-python2.x-and-python3.x-in-windows7
