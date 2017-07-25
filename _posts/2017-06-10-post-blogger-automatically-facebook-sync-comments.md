@@ -31,6 +31,10 @@ title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2017確�
 </b></center>
 <!-- 著作權end -->
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
+
 ## 申請Facebook開發人員及使用留言板
 要使用 FB 的功能第一步, 要先成為FB的開發人員+申請應用<br>
 [facebook for developers](https://developers.facebook.com/apps?locale=zh_TW)<br>
@@ -89,6 +93,10 @@ document.getElementsByTagName("head")[0].appendChild(script);
 ```
 做到這裡就已經可以進入你的blog看到FB的留言了!!
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
+
 ### 開啟FB同步化
 進入[FB開發者留言工具](https://developers.facebook.com/tools/comments/)
 <img src="/image/2017-06-10-post-blogger-automatically-facebook-sync-comments/facebook-comment-mirror.png" alt="facebook comments mirror" width="900" itemprop="image"><br>
@@ -105,6 +113,9 @@ elem.setAttribute("data-href", "https://" + location.hostname + location.pathnam
 ```
 所以我直接更改懶人包成setAttribute, 並且把網址"?m=1"的參數砍掉. <br>
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
 
 ### 解決區域化導向
 <h4>方法1: 直接禁止導向</h4>
@@ -135,6 +146,10 @@ location.hostname 刪除在 https:// 直接改成你的網址也行,例如:
 ```
 elem.setAttribute("data-href", "https://fishfish615.blogspot.com/" + location.pathname.split("?")[0]); 
 ```
+
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
 
 ## 自動分享貼文 
 懶得手動分享, 想自動化處理, 記得看一下這裡!!<br>

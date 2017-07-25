@@ -37,6 +37,10 @@ title: "Jekyll及GitHub教學4》SEO優化-讓網站更易被搜尋"
 </b></center>
 <!-- 著作權end -->
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
+
 ## Microdata
 [Wiki](https://en.wikipedia.org/wiki/Microdata_(HTML))
 >Microdata is a WHATWG HTML specification used to nest metadata within existing content on web pages. Search engines, web crawlers, and browsers can extract and process Microdata from a web page and use it to provide a richer browsing experience for users. Search engines benefit greatly from direct access to this structured data because it allows search engines to understand the information on web pages and provide more relevant results to users.
@@ -92,6 +96,10 @@ itemprop="屬性"
 種類跟屬性可以到[Schema官網](http://schema.org/docs/schemas.html)裡面找, 我這裡用[Schema BlogPost](http://schema.org/BlogPosting)來做範例:<br>(請注意綠框的itemscope itemtype itemprop, 下面也有完整程式碼連結.)<br>
 <img src="/image/2017-06-02-adding-schema-org-metadata-to-Jekyll/jekyll schema sample.png" alt="jekyll schema sample" width="900"><br>
 連結:[Github完整程式碼](https://github.com/hungchicheng/hungchicheng.github.io/blob/1c0381729c6e9421d51fc221f4d709618a607b0b/_layouts/post.html)(打開連結用CTRL+F搜尋"itemprop"會更清楚)
+
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
 
 ### 結構化測試工具
 最後就可以進入網站[Google測試結構化資料](https://search.google.com/structured-data/testing-tool) 貼上網址 或是程式碼片段, 就可以執行測試了!!!

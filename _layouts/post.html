@@ -16,7 +16,7 @@ layout: default
         <meta itemprop="mainEntityOfPage" itemscope itemtype="http://schema.org/WebPage">
 
         <h1 id="post" itemprop="headline">{{page.title}}</h1>
-        {% include ad.html %}  <!-- 廣告 -->
+        {% include ad-728-90.html %}  <!-- 廣告 -->
         <div class="label">
 
             <div class="label-card">
@@ -51,7 +51,6 @@ layout: default
             {{content}}
         </article>
         <hr>
-        <script type="text/javascript" src="//js1.bloggerads.net/contentads.aspx?blogid=20170606000005" async></script>
         {% capture relatedPost %}{% include relatedPost.html %}{% endcapture %}{{ relatedPost | strip_newlines }}
         <h2 id="comments">Comments</h2>
         {% include comments.html %}
@@ -74,7 +73,7 @@ layout: default
             <br>
             <!-- 其他div框放到这里 -->
             <div class="side">
-                {% include ad.html %} <!-- 廣告 -->
+                {% include ad-300-250.html %} <!-- 廣告 -->
             </div>
         </div>
     </div>

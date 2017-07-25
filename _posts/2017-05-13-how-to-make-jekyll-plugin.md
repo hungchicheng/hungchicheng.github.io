@@ -33,6 +33,9 @@ Jekyll安裝好後, 就可以在GitHub上使用部落格了, 所以也可以開�
 </b></center>
 <!-- 著作權end -->
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
 
 ## 一. 換主題
 [官網說明](http://jekyllcn.com/docs/themes/)
@@ -46,6 +49,9 @@ Jekyll安裝好後, 就可以在GitHub上使用部落格了, 所以也可以開�
 <https://jekyllthemes.io/><br>
 <http://themes.jekyllrc.org/><br>
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
 
 ## 二. 插件
 [官網說明](http://jekyllcn.com/docs/plugins/)

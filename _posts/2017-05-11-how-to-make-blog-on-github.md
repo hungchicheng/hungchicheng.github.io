@@ -31,6 +31,10 @@ title: "Jekyll及GitHub教學1》快速20分鐘建立免費部落格"
 </b></center>
 <!-- 著作權end -->
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
+
 ## 各部落格平台
 1. 痞客邦
 * 廣告一大堆
@@ -49,9 +53,7 @@ title: "Jekyll及GitHub教學1》快速20分鐘建立免費部落格"
 其他樣式主題(Theme)等等套用現成的就可以了
 
 <!-- 手動放廣告 -->
-<!-- <br>
-{% include ad.html %}
-<br> -->
+{% include ad-in-post.html %}
 <!-- 手動放廣告 -->
 
 ## 第一步- GitHub Page
@@ -92,6 +94,10 @@ title: "Jekyll及GitHub教學1》快速20分鐘建立免費部落格"
 <img src="/image/2017-05-11-how-to-make-blog-on-github/2.png" alt="index.html guild" width="200"><br>
 再繼續做6.即可<br>
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
+
 ## 第二步- Jekyll
 下面是[Jekyll中文版](http://jekyll.com.cn/)：
 >将纯文本转化为静态网站和博客.<br>
@@ -128,6 +134,10 @@ jekyll serve
 直接進入網站資料夾用文字編輯器(我個人喜歡[SublimeText](https://www.sublimetext.com/))開啟<br>
 _posts資料夾中的檔案, 新增文章也在這裡, <br>
 喜歡圖形化編輯的朋友可以安裝插件詳情請看[第二段教學](http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin).
+
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
 
 ## 總結
 GitHub Pages ＋ Jekyll使用上的特點：

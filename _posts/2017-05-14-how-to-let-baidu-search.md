@@ -36,12 +36,19 @@ title: "Jekyll及GitHub教學3》讓百度索引部落格的教程"
 </b></center>
 <!-- 著作權end -->
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
+
 ## 第一步- 網域名稱
 先弄一個網域名城, 網路上這部分的資料相當多, 這裡就不在敘述了,<br>
 我是直接到 [godaddy](http://godaddy.com/) <br>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/GoDaddy.svg/1200px-GoDaddy.svg.png" alt="godaddy logo" width="400"><br>
 去買一個我喜歡的網址 [hungchicheng.me](http://hungchicheng.me) 就是我的英文名+.me非常好記.
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
 
 ## 第二步- Coding.net
 >Coding 是一個面向開發者的雲端開發平台，目前提供代碼託管，運行空間，質量控制，項目管理等功能。Coding 提供社會化協作功能，包含了社交元素，為開發者提供技術討論和協作平台。
@@ -74,6 +81,10 @@ git push mirror master        # 送交到coding.net
 進入pages設定頁設定網頁服務位置到master並開啟服務.<br>
 在填入你的網域名稱綁定即可.<br>
 經過以上的操作後, 可以進入 [hungchicheng.coding.me](http://hungchicheng.coding.me)就可以看到你鏡像的網站了
+
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
 
 ## 第三步- CloudXNS智能解析DNS
 這裡我是利用中國免費的 DNS 網域名城伺服器,<br> 

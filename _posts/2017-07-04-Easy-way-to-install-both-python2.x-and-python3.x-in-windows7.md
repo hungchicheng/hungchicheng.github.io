@@ -32,6 +32,10 @@ This document aims to give an easy way to install both Python 2 &3. Python is a 
 </b></center>
 <!-- 著作權end -->
 
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
+
 ## Install Python2 &3
 Go to the Python download page and download Python<br>
 <https://www.python.org/downloads/>
@@ -58,6 +62,10 @@ Check Python3 is corrently set.
 Path
 C:\Python36-32;C:\Python36-32\Scripts;
 ```
+
+<!-- 手動放廣告 -->
+{% include ad-in-post.html %}
+<!-- 手動放廣告 -->
 
 ## Test
 Just Open CMD and check both python is correctly install.
