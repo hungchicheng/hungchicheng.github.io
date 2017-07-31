@@ -21,7 +21,7 @@ last_modified_at: 2017-06-19
 </script>
 
 <center>
-<img src="https://scontent.ftpe1-2.fna.fbcdn.net/v/t1.0-9/156321_690679490947805_1177048306_n.jpg?oh=dbb9dbc8b0823c2d5a309401bcf011e2&oe=597784C6" alt=""  border="0" itemprop="image" class="img-circle" width="400">
+<img src="/image/hungchicheng-1.jpg" alt="hungchicheng.me"  border="0" itemprop="image" class="img-circle" width="400">
 </center>
 
 ## Author
