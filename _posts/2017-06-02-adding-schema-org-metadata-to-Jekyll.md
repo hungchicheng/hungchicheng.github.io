@@ -24,7 +24,7 @@ title: "Jekyll及GitHub教學4》SEO優化-讓網站更易被搜尋"
 ,再來 更換主題及安裝插件的方法:<br>
 [Jekyll及GitHub Page教學(二) 更換主題及安裝插件](http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/)<br>
 ,還有讓百度抓Coding.net鏡像:<br>
-[Jekyll及GitHub Page教學進階-讓百度搜尋Github部落格](http://hungchicheng.me/2017/05/14/2017-05-14-how-to-let-baidu-search/)<br>
+[Jekyll及GitHub Page教學進階-讓百度搜尋Github部落格](http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/)<br>
 
 <!-- 著作權start -->
 <center><b><br>
