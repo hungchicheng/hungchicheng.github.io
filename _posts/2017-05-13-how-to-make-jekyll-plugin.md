@@ -70,24 +70,24 @@ Jekyll安裝好後, 就可以在GitHub上使用部落格了, 所以也可以開�
 ### 安裝
 前置作業需要先安裝bundler,終端機下個等他跑完吧<br>
 [如果Ruby版本太舊, 請先更新](https://www.ruby-lang.org/zh_tw/documentation/)
-```
+```console
 sudo gem install bundler
 ```
 
 在 Gemfile 檔案中加入，例如：<br>
 (如果沒有Gemfile可直接用記事本新增)
 
-```
+```ruby
  group :jekyll_plugins do
    gem "jekyll-paginate"
    gem "jekyll-sitemap"
  end
 ```
 儲存後,到終端機輸入就可以開始安裝
-```
+```console
 sudo gem install bundler
 ```
 輸入就可以啟動了
-```
+```console
 bundle exec jekyll server
 ```

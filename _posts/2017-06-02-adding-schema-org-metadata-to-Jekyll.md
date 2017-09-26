@@ -46,7 +46,7 @@ title: "Jekyll及GitHub教學4》SEO優化-讓網站更易被搜尋"
 >Microdata is a WHATWG HTML specification used to nest metadata within existing content on web pages. Search engines, web crawlers, and browsers can extract and process Microdata from a web page and use it to provide a richer browsing experience for users. Search engines benefit greatly from direct access to this structured data because it allows search engines to understand the information on web pages and provide more relevant results to users.
 
 =>簡單來說就是在網頁中附加Microdata可以讓搜尋引擎更好抓取內容,例如:
-```
+```js
 <!-- 告訴搜尋引擎 name 是HungChi's Blog -->
 <meta itemprop="name" content="HungChi's Blog">
 ```
@@ -62,7 +62,7 @@ title: "Jekyll及GitHub教學4》SEO優化-讓網站更易被搜尋"
 
 ### 方法1
 例如我 [index.html](http://hungchicheng.me) 中直接加入一段script部落格的Type就是"Blog".
-```
+```js
 <script type="application/ld+json">
 { "@context": "http://schema.org", 
  "@type": "Blog",
@@ -87,7 +87,7 @@ title: "Jekyll及GitHub教學4》SEO優化-讓網站更易被搜尋"
 
 ### 方法2
 直接在layout版面樣式裡面的post.html, 插入schema直接套用全部post文章,
-```
+```js
 div中itemscope itemtype="http://schema.org/種類"
 itemprop="屬性"
 以此類推...

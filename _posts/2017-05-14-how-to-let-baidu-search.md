@@ -60,7 +60,7 @@ title: "Jekyll及GitHub教學3》讓百度索引部落格的教程"
 將本地端的github page (也就是jekyll專案)建立與coding.net的關聯
 
 ### 鏡像
-```
+```console
 # 專案目錄下
 git remote add mirror https://git.coding.net/hungchicheng/hungchicheng.git
 ```
@@ -70,7 +70,7 @@ git remote add mirror https://git.coding.net/hungchicheng/hungchicheng.git
 
 ### 上傳程式碼
 
-```
+```console
 git add --all
 git commit -m "first commit"
 git push                      # 送交到github
@@ -90,7 +90,7 @@ git push mirror master        # 送交到coding.net
 這裡我是利用中國免費的 DNS 網域名城伺服器,<br> 
 將百度的 ip 重新導入coding.net其他的導入回github.<br>
 首先申請好賬號,並且把裡面的"網域名稱伺服器"設定回godaddy.
-```
+```console
 lv3ns1.ffdns.net
 lv3ns2.ffdns.net
 lv3ns3.ffdns.net
@@ -107,7 +107,7 @@ lv3ns4.ffdns.net
 <br> 
 測試連線正常可以在cmd下, 就可以看到跳轉結果<br> 
 dig hungchicheng.me +nostats +nocomments +nocmd
-```
+```console
 $ dig hungchicheng.me +nostats +nocomments +nocmd
 
 ; <<>> DiG 9.8.3-P1 <<>> hungchicheng.me +nostats +nocomments +nocmd

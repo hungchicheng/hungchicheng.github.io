@@ -80,7 +80,7 @@ title: "Jekyll及GitHub教學1》快速20分鐘建立免費部落格"
 
 ### P.S.
 第5. 如果index.html不會用的話...可以開啟電腦的記事本直接複製貼上以下內容:<br>
-```
+```html
 <!DOCTYPE html>
 <html>
 <body>
@@ -114,7 +114,7 @@ title: "Jekyll及GitHub教學1》快速20分鐘建立免費部落格"
 * MAC- [如果跟我一樣Ruby版本太舊, 請先更新](https://www.ruby-lang.org/zh_tw/documentation/installation/#homebrew)<br>
 
 1. 接著在終端機下直接輸入
-```
+```console
 gem install jekyll
 jekyll new mysite
 cd mysite

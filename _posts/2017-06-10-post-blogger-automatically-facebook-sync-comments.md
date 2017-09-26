@@ -4,7 +4,7 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: Blogger
 tags:  Google Blogger blogspot Facebook Page m=1 同步留言 自動分享貼文 IFTTT 部落格 博客 教程 教學 懶人包
 date:  2017-06-10
-last_modified_at: 2017-06-19
+last_modified_at: 2017-09-20
 title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2017確定可用)"
 ---
 <!--                Title 的建議最大長度                   -->
@@ -51,7 +51,7 @@ title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2017確�
 進入[blogger後台](https://www.blogger.com/)>主題>編輯HTML.<br>
 (第一次使用或是不熟的人記得先按"右上角備份)<br>
 搜尋<head>,並且在"下方"加入
-```
+```html
 <!-- [ Social Media meta tag ] -->
 <meta content='259238854555058' property='fb:app_id'/>
 <meta content='115653692364277' property='fb:admins'/>
@@ -64,7 +64,7 @@ fb:admins 可以到[Lookup-ID](https://lookup-id.com/)這個用網站搜尋, 直
 [Facebook 留言框最簡單快速的安裝方式 + 常見問題整理](http://www.wfublog.com/2017/01/fb-comment-box-v2-faq.html)<br>
 這部分跟參考網站懶人包不同的地方, 是我也想讓手機版同步, 所以在elem.setAttribute 做了修改.
 搜尋</body>,並且"下方"加入
-```
+```js
 <!-- FB 留言框安裝懶人包 V2 -->
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
 <div class='fb-comments' data-colorscheme='light' data-href='' data-numposts='5' data-width='100%' id='fb-comments'>
@@ -108,7 +108,7 @@ document.getElementsByTagName("head")[0].appendChild(script);
 ### 解決手機版?m=1
 (上面的"FB留言框安裝懶人包V2", 是我已經改好的版本了, 這段可忽略)<br>
 如果使用[官網教學](https://developers.facebook.com/docs/plugins/comments/)/或是其他教學做的話, 就會遇到手機版跟電腦版留言無法同步的問題, 這是因為 Blogger 手機版會自動帶入參數?m=1, 導致網址不同的問題...只要把"?m=1"去掉即可.
-```
+```js
 elem.setAttribute("data-href", "https://" + location.hostname + location.pathname.split("?")[0]); 
 ```
 所以我直接更改懶人包成setAttribute, 並且把網址"?m=1"的參數砍掉. <br>
@@ -122,7 +122,7 @@ elem.setAttribute("data-href", "https://" + location.hostname + location.pathnam
 這部分是我看到這篇討論, 
 [關於 Blogger 網域導向（Country-Specific URLs）與強制恢復 .com](http://whclive.blogspot.tw/2012/06/prevent-your-blogger-blog-from.html)<br>
 使用方法就是搜尋<head>底下貼入以下內容
-```
+```js
 <!-- 禁止自動跳轉 -->
 <script type='text/javascript'>
 var blog = document.location.hostname;
@@ -139,11 +139,11 @@ window.location.replace(ncr);
 <h4>方法2: 直接設定Comment的網址</h4>
 如果你想保留區域化導向, 可以改用這個我後來發現的方法, 給需要用到的人.<br>
 做法就是直接更改懶人包的code的這一段.
-```
+```js
 elem.setAttribute("data-href", "https://" + location.hostname + location.pathname.split("?")[0]); 
 ```
 location.hostname 刪除在 https:// 直接改成你的網址也行,例如:
-```
+```js
 elem.setAttribute("data-href", "https://fishfish615.blogspot.com/" + location.pathname.split("?")[0]); 
 ```
 
