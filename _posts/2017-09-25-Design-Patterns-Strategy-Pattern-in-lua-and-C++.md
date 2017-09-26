@@ -98,7 +98,7 @@ archer1
 use bow to attack
 Program ended with exit code: 0
 ```
-
+[Download - Source Code](https://github.com/hungchicheng/DesignPattern/blob/master/C%2B%2B/Strategy.cpp)<br>
 <!-- 手動放廣告 -->
 {% include ad-in-post.html %}
 <!-- 手動放廣告 -->
@@ -190,3 +190,4 @@ use bow to attack
 
 [Finished in 0.0s]
 ```
+[Download - Source Code](https://github.com/hungchicheng/DesignPattern/blob/master/Lua/Strategy.lua)<br>
