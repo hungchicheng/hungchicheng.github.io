@@ -4,7 +4,7 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: GitHubPage
 tags:  GitHub Jekyll 百度 Coding.net 網域名稱 godaddy CloudXNS 智能解析DNS 部落格 博客 索引 教程 教學 懶人包
 date:  2017-05-14
-last_modified_at: 2017-06-19
+last_modified_at: 2017-10-02
 title: "Jekyll及GitHub教學3》讓百度索引部落格的教程"
 ---
 <!--                Title 的建議最大長度                   -->
@@ -87,6 +87,7 @@ git push mirror master        # 送交到coding.net
 <!-- 手動放廣告 -->
 
 ## 第三步- CloudXNS智能解析DNS
+(2017/09/30因強制實施實名制導致失效!!!, 測試DNSPOD國際版中...)<br> 
 這裡我是利用中國免費的 DNS 網域名城伺服器,<br> 
 將百度的 ip 重新導入coding.net其他的導入回github.<br>
 首先申請好賬號,並且把裡面的"網域名稱伺服器"設定回godaddy.
