@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 icon: <i class="fa fa-heart"></i>
-last_modified_at: 2017-06-19
+last_modified_at: 2017-10-26
 ---
 
 * content
@@ -20,13 +20,9 @@ last_modified_at: 2017-06-19
 }
 </script>
 
-<center>
-<img src="/image/hungchicheng-1.jpg" alt="hungchicheng.me"  border="0" itemprop="image" class="img-circle" width="400">
-</center>
-
 ## Author
-<H4>Hung-Chi Cheng, (程弘錡)</H4>
-* Senior Software Engineer with 3 years of work experience at International Games System Company. With a Master's degree focused in Computer Science from National Taipei University. 
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/hungchicheng" data-format="inline" data-related="false"></script>
 
 ## Skill Set
 * Language: Lua, C++, Object-c, Swift, Golang, C#
