@@ -22,7 +22,7 @@ last_modified_at: 2017-10-26
 
 ## Author
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/hungchicheng" data-format="inline" data-related="false"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/hungchicheng" data-format="inline" data-width="100%" data-related="false"></script>
 
 ## Skill Set
 * Language: Lua, C++, Object-c, Swift, Golang, C#

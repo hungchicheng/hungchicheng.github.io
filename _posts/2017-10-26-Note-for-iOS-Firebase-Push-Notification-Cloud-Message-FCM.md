@@ -13,7 +13,9 @@ title: "Note for iOS Firebase Push Notification/ Cloud Message (FCM)"
 {:toc}
 
 <!-- 文章概要 -->
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/sioEY4tWmLI" frameborder="0" allowfullscreen></iframe></center>
+<div class="video-container">
+<center><iframe width="100%" height="315" src="https://www.youtube.com/embed/sioEY4tWmLI" frameborder="0" allowfullscreen></iframe></center>
+</div>
 >Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably deliver messages at no cost. Using FCM, you can notify a client app that new email or other data is available to sync. You can send notification messages to drive user reengagement and retention. For use cases such as instant messaging, a message can transfer a payload of up to 4KB to a client app.
 
 <!-- more -->
