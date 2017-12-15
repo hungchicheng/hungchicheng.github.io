@@ -14,3 +14,8 @@ http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/
 http://hungchicheng.me/2017/06/02/adding-schema-org-metadata-to-Jekyll/
 http://hungchicheng.me/2017/06/10/post-blogger-automatically-facebook-sync-comments/
 http://hungchicheng.me/2017/07/04/Easy-way-to-install-both-python2.x-and-python3.x-in-windows7
+http://hungchicheng.me/2017/09/25/Design-Patterns-Strategy-Pattern-in-lua-and-C++/
+http://hungchicheng.me/2017/09/29/Design-Patterns-Observer-Pattern-in-lua-and-C++/
+http://hungchicheng.me/2017/10/26/Note-for-iOS-Firebase-Push-Notification-Cloud-Message-FCM/
+http://hungchicheng.me/2017/11/07/Design-Patterns-Decorator-Pattern-in-lua-and-C++/
+http://hungchicheng.me/2017/12/07/Design-Patterns-Factory-Pattern-in-lua-and-C++/
