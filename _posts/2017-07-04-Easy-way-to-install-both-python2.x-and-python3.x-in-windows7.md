@@ -4,7 +4,7 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: Python
 tags:  Python Script
 date:  2017-07-04
-last_modified_at: 2017-07-04
+last_modified_at: 2018-07-17
 title: "Easy way to install both Python2.x and Python3.x in Windows"
 ---
 <!--                Title 的建議最大長度                   -->

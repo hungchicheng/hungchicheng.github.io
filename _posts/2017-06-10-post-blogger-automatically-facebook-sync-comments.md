@@ -4,8 +4,8 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: Blogger
 tags:  Google Blogger blogspot Facebook Page m=1 同步留言 自動分享貼文 IFTTT 部落格 博客 教程 教學 懶人包
 date:  2017-06-10
-last_modified_at: 2017-09-20
-title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2017確定可用)"
+last_modified_at: 2018-07-17
+title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2018/2月已失效)"
 ---
 <!--                Title 的建議最大長度                   -->
 
@@ -16,6 +16,7 @@ title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2017確�
 <center><br>
 <img src="/image/2017-06-10-post-blogger-automatically-facebook-sync-comments/facebook-comments-in-blogger.png" alt="google search logo" width="500" itemprop="image">
 </center><br>
+!!!FB已經於2018的2月關閉此功能!!!
 本篇講如何用Google Blogger(blogspot)與Facebook的留言同步, 相信這對想用Facebook來做宣傳, 或是想自動同步留言到粉絲團 自動分享貼文都非常有幫助.<br>我這次突然換成Blogger的教學, 是因為幫朋友弄Blogger主題時, 發現這個好玩的全部自動化功能, 也讓我開始當起新手前端工程師了, 從修改html+css到現在弄了一些JavaScript, 自己也學到了不少= =+. <br><br>
 <!-- more -->
 

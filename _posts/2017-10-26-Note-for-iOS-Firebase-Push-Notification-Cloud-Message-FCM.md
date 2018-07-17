@@ -4,7 +4,7 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: iOS
 tags:  Firebase
 date:  2017-10-26
-last_modified_at: 2017-10-26
+last_modified_at: 2018-07-17
 title: "Note for iOS Firebase Push Notification/ Cloud Message (FCM)"
 ---
 <!--                Title 的建議最大長度                   -->

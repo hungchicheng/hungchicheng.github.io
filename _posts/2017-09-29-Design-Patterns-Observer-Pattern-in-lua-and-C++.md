@@ -4,7 +4,7 @@ author: <a href="/about">Hung-Chi Cheng (程弘錡)</a>
 categories: DesignPattern
 tags:  Lua C++ 教程 教學 
 date:  2017-09-29
-last_modified_at: 2017-09-29
+last_modified_at: 2018-07-17
 title: "Design Pattern - Observer Pattern in C++ and Lua"
 ---
 <!--                Title 的建議最大長度                   -->
