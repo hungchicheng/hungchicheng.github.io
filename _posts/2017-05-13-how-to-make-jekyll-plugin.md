@@ -20,14 +20,14 @@ Jekyll安裝好後, 就可以在GitHub上使用部落格了, 所以也可以開�
 <!-- more -->
 
 上上一篇講了我 安裝jekyll+放上 GitHub Page的方法:<br>
-[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/)<br>
+[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](https://hungchicheng.github.io/2017/05/11/how-to-make-blog-on-github/)<br>
 
 <!-- 著作權start -->
 <center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 &copy; Hung-Chi's Blog<br>
-<a href="http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/" id="link" target="_blank">
-	http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/
+<a href="https://hungchicheng.github.io/2017/05/13/how-to-make-jekyll-plugin/" id="link" target="_blank">
+	https://hungchicheng.github.io/2017/05/13/how-to-make-jekyll-plugin/
 </a><br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>

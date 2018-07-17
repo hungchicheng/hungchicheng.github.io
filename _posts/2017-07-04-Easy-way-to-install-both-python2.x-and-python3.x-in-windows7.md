@@ -24,8 +24,8 @@ This document aims to give an easy way to install both Python 2 &3. Python is a 
 <center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 &copy; Hung-Chi's Blog<br>
-<a href="http://hungchicheng.me/2017/07/04/Easy-way-to-install-both-python2.x-and-python3.x-in-windows7/" id="link" target="_blank">
-	http://hungchicheng.me/2017/07/04/Easy-way-to-install-both-python2.x-and-python3.x-in-windows7/
+<a href="https://hungchicheng.github.io/2017/07/04/Easy-way-to-install-both-python2.x-and-python3.x-in-windows7/" id="link" target="_blank">
+	https://hungchicheng.github.io/2017/07/04/Easy-way-to-install-both-python2.x-and-python3.x-in-windows7/
 </a><br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>

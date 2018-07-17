@@ -24,8 +24,8 @@ title: "Blogger教學》Facebook留言同步 手機版?m=1也可同步 (2017確�
 <center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 &copy; Hung-Chi's Blog<br>
-<a href="http://hungchicheng.me/2017/06/10/post-blogger-automatically-facebook-sync-comments/" id="link" target="_blank">
-	http://hungchicheng.me/2017/06/10/post-blogger-automatically-facebook-sync-comments/
+<a href="https://hungchicheng.github.io/2017/06/10/post-blogger-automatically-facebook-sync-comments/" id="link" target="_blank">
+	https://hungchicheng.github.io/2017/06/10/post-blogger-automatically-facebook-sync-comments/
 </a><br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>

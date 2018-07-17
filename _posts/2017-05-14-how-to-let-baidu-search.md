@@ -20,17 +20,17 @@ title: "Jekyll及GitHub教學3》讓百度索引部落格的教程"
 <!-- more -->
 
 上上一篇講了我 安裝jekyll+放上 GitHub Page的方法:<br>
-[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/),<br>
+[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](https://hungchicheng.github.io/2017/05/11/how-to-make-blog-on-github/),<br>
 上一篇講了我 更換主題及安裝插件的方法:<br>
-[Jekyll及GitHub Page教學(二) 更換主題及安裝插件](http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/)<br>
+[Jekyll及GitHub Page教學(二) 更換主題及安裝插件](https://hungchicheng.github.io/2017/05/13/how-to-make-jekyll-plugin/)<br>
 
 
 <!-- 著作權start -->
 <center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 &copy; Hung-Chi's Blog<br>
-<a href="http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/" id="link" target="_blank">
-	http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/
+<a href="https://hungchicheng.github.io/2017/05/14/how-to-let-baidu-search/" id="link" target="_blank">
+	https://hungchicheng.github.io/2017/05/14/how-to-let-baidu-search/
 </a><br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>
@@ -44,7 +44,7 @@ title: "Jekyll及GitHub教學3》讓百度索引部落格的教程"
 先弄一個網域名城, 網路上這部分的資料相當多, 這裡就不在敘述了,<br>
 我是直接到 [godaddy](http://godaddy.com/) <br>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/GoDaddy.svg/1200px-GoDaddy.svg.png" alt="godaddy logo" width="400"><br>
-去買一個我喜歡的網址 [hungchicheng.me](http://hungchicheng.me) 就是我的英文名+.me非常好記.
+去買一個我喜歡的網址 [hungchicheng.me](https://hungchicheng.github.io) 就是我的英文名+.me非常好記.
 
 <!-- 手動放廣告 -->
 {% include ad-in-post.html %}

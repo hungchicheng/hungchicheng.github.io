@@ -26,8 +26,8 @@ title: "Design Pattern - Strategy Pattern in C++ and Lua"
 <center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 &copy; Hung-Chi's Blog<br>
-<a href="http://hungchicheng.me/2017/09/25/Design-Patterns-Strategy-Pattern-in-lua-and-C++/" id="link" target="_blank">
-	http://hungchicheng.me/2017/09/25/Design-Patterns-Strategy-Pattern-in-lua-and-C++/
+<a href="https://hungchicheng.github.io/2017/09/25/Design-Patterns-Strategy-Pattern-in-lua-and-C++/" id="link" target="_blank">
+	https://hungchicheng.github.io/2017/09/25/Design-Patterns-Strategy-Pattern-in-lua-and-C++/
 </a><br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>

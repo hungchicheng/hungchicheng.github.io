@@ -13,7 +13,7 @@
 # Site settings
 title: Hung-Chi's Blog
 brief-intro: on github
-url: "http://hungchicheng.me" # the base hostname & protocol for your site
+url: "https://hungchicheng.github.io" # the base hostname & protocol for your site
 description: > # this means to ignore newlines until "baseurl:"
   Hung-Chi Blog (程弘錡的部落格) Hung-Chi Cheng, Hung Chi Cheng, 
   Blog includes a variety of technical problems and solutions encountered by myself. 

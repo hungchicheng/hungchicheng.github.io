@@ -26,8 +26,8 @@ Firebase Cloud Message : <https://firebase.google.com/docs/cloud-messaging/>
 <center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 &copy; Hung-Chi's Blog<br>
-<a href="http://hungchicheng.me/2017/10/26/Note-for-iOS-Firebase-Push-Notification-Cloud-Message-FCM/" id="link" target="_blank">
-	http://hungchicheng.me/2017/09/29/Note-for-iOS-Firebase-Push-Notification-Cloud-Message-FCM/
+<a href="https://hungchicheng.github.io/2017/10/26/Note-for-iOS-Firebase-Push-Notification-Cloud-Message-FCM/" id="link" target="_blank">
+	https://hungchicheng.github.io/2017/09/29/Note-for-iOS-Firebase-Push-Notification-Cloud-Message-FCM/
 </a><br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>

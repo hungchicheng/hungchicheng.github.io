@@ -24,8 +24,8 @@ title: "Jekyll及GitHub教學1》快速20分鐘建立免費部落格"
 <center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 &copy; Hung-Chi's Blog<br>
-<a href="http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/" id="link" target="_blank">
-	http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/
+<a href="https://hungchicheng.github.io/2017/05/11/how-to-make-blog-on-github/" id="link" target="_blank">
+	https://hungchicheng.github.io/2017/05/11/how-to-make-blog-on-github/
 </a><br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>
@@ -133,7 +133,7 @@ jekyll serve
 ### 新增文章<br>
 直接進入網站資料夾用文字編輯器(我個人喜歡[SublimeText](https://www.sublimetext.com/))開啟<br>
 _posts資料夾中的檔案, 新增文章也在這裡, <br>
-喜歡圖形化編輯的朋友可以安裝插件詳情請看[第二段教學](http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin).
+喜歡圖形化編輯的朋友可以安裝插件詳情請看[第二段教學](https://hungchicheng.github.io/2017/05/13/how-to-make-jekyll-plugin).
 
 <!-- 手動放廣告 -->
 {% include ad-in-post.html %}

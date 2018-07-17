@@ -16,7 +16,7 @@ last_modified_at: 2017-10-26
   "name": "Hung-Chi Cheng (程弘錡)",
   "jobTitle": "Senior Software Engineer",
   "affiliation": "International Games System",
-  "url": "http://hungchicheng.me"
+  "url": "https://hungchicheng.github.io"
 }
 </script>
 

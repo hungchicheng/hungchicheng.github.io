@@ -20,18 +20,18 @@ title: "Jekyll及GitHub教學4》SEO優化-讓網站更易被搜尋"
 <!-- more -->
 
 之前的文章有: 安裝jekyll+放上 GitHub Page的方法:<br>
-[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](http://hungchicheng.me/2017/05/11/how-to-make-blog-on-github/), <br>
+[Jekyll及GitHub Page教學(一)20分鐘建立免費部落格](https://hungchicheng.github.io/2017/05/11/how-to-make-blog-on-github/), <br>
 ,再來 更換主題及安裝插件的方法:<br>
-[Jekyll及GitHub Page教學(二) 更換主題及安裝插件](http://hungchicheng.me/2017/05/13/how-to-make-jekyll-plugin/)<br>
+[Jekyll及GitHub Page教學(二) 更換主題及安裝插件](https://hungchicheng.github.io/2017/05/13/how-to-make-jekyll-plugin/)<br>
 ,還有讓百度抓Coding.net鏡像:<br>
-[Jekyll及GitHub Page教學進階-讓百度搜尋Github部落格](http://hungchicheng.me/2017/05/14/how-to-let-baidu-search/)<br>
+[Jekyll及GitHub Page教學進階-讓百度搜尋Github部落格](https://hungchicheng.github.io/2017/05/14/how-to-let-baidu-search/)<br>
 
 <!-- 著作權start -->
 <center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 &copy; Hung-Chi's Blog<br>
-<a href="http://hungchicheng.me/2017/06/02/adding-schema-org-metadata-to-Jekyll/" id="link" target="_blank">
-	http://hungchicheng.me/2017/06/02/adding-schema-org-metadata-to-Jekyll/
+<a href="https://hungchicheng.github.io/2017/06/02/adding-schema-org-metadata-to-Jekyll/" id="link" target="_blank">
+	https://hungchicheng.github.io/2017/06/02/adding-schema-org-metadata-to-Jekyll/
 </a><br>
 一一一一一一一一一一一一一一一一一一一一一一一一
 </b></center>
@@ -61,7 +61,7 @@ title: "Jekyll及GitHub教學4》SEO優化-讓網站更易被搜尋"
 =>可以說在HTML中加入一些屬性，讓搜尋引擎更容易了解網站內容，現在Google也建議用Schema.org，而且測試工具也會記錄頁面上的結構化Microdata資料，SEO優化中當然就推薦用它啦。
 
 ### 方法1
-例如我 [index.html](http://hungchicheng.me) 中直接加入一段script部落格的Type就是"Blog".
+例如我 [index.html](https://hungchicheng.github.io) 中直接加入一段script部落格的Type就是"Blog".
 ```js
 <script type="application/ld+json">
 { "@context": "http://schema.org", 

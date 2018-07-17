@@ -24,8 +24,8 @@ title: "Cocos2d-x教程教學》為什麼用Cocos2d-x來開發跨平台遊戲"
 <center><b><br>
 一一一一一一一一一一一一一一一一一一一一一一一一<br>
 &copy;  著作權聲明: <br>
-<a href="http://hungchicheng.me/2014/12/01/cocosdx-lua-why/" id="link" target="_blank">
-	http://hungchicheng.me/2014/12/01/cocosdx-lua-why/
+<a href="https://hungchicheng.github.io/2014/12/01/cocosdx-lua-why/" id="link" target="_blank">
+	https://hungchicheng.github.io/2014/12/01/cocosdx-lua-why/
 </a><br>
 歡迎分享轉載,  並請註明連結<br>
 一一一一一一一一一一一一一一一一一一一一一一一一
