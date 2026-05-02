@@ -113,6 +113,7 @@ For more in-depth guidance and advanced features, please refer to the [package d
 ## Considerations for Integration
 
 > **Note on Google Sign-In Deprecation:** Google has deprecated the older Google Sign-In JavaScript platform library (`gapi.auth2`) as of March 31, 2023.
+
 > **Important Clarification:** The `vue3-google-login` package featured in this guide safely uses the current and actively supported **Google Identity Services (GIS)** SDK. It does **not** rely on the deprecated legacy library, so you can integrate it without any deprecation concerns.
 
 For more information, please see Deprecation and Sunset page.
